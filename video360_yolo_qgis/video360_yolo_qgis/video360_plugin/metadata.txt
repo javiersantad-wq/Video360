@@ -1,0 +1,26 @@
+# Video360 YOLO Detector - Plugin Metadata
+# =========================================
+
+# Metadata del plugin para QGIS
+[general]
+name=Video360 YOLO Detector
+description=Detector de objetos en video 360° usando YOLO con georreferenciación
+category=Raster
+version=1.0.0
+author=Video360 Team
+email=support@video360.local
+icon=icon.png
+qgisMinimumVersion=3.20
+experimental=False
+
+# Etiquetas
+tags=video,360,yolo,detection,gis,georeference,street view
+
+# URLs
+homepage=https://github.com/javiersantad-wq/Video360
+repository=https://github.com/javiersantad-wq/Video360
+tracker=https://github.com/javiersantad-wq/Video360/issues
+#download_url=
+
+# Dependencias de Python
+python_dependencies=opencv-python,numpy,ultralytics,geopandas,shapely,Pillow,gpxpy
