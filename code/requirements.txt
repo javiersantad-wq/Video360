@@ -1,0 +1,19 @@
+# Video360 Detector - QGIS Plugin
+# Requisitos de Python
+
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# YOLO
+ultralytics>=8.0.0
+
+# GIS
+geopandas>=0.14.0
+shapely>=2.0.0
+PyQt5>=5.15.0
+
+# Opcionales
+ffmpeg-python>=0.2.0
+Pillow>=10.0.0
+PyGithub>=2.1.0
