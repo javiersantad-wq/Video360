@@ -1,0 +1,23 @@
+# Video360 YOLO Detector - Requisitos de Instalación
+# ===============================================
+
+# Instalar con:
+# pip install -r requirements.txt
+
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# YOLO
+ultralytics>=8.0.0
+
+# GIS
+geopandas>=0.14.0
+shapely>=2.0.0
+
+# Utilidades
+Pillow>=10.0.0
+gpxpy>=1.6.0
+
+# Interfaz (para desarrollo)
+PyQt5>=5.15.0
