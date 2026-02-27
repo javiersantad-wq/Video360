@@ -1,0 +1,21 @@
+{
+  "total_detections": 870,
+  "crs": "EPSG:4326",
+  "detection_radius": 10.0,
+  "classes_found": [
+    "train",
+    "motorcycle",
+    "car",
+    "kite",
+    "person",
+    "traffic light",
+    "truck",
+    "surfboard",
+    "bus"
+  ],
+  "files": {
+    "points": "real_output\\shapefile\\detections_points.shp",
+    "buffer": "real_output\\shapefile\\detections_buffer.shp",
+    "geojson": "real_output\\shapefile\\detections.geojson"
+  }
+}
