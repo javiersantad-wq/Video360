@@ -1,0 +1,13 @@
+{
+  "index": 120,
+  "filename": "frame_0120.jpg",
+  "filepath": "real_output_10m\\frames\\frame_0120.jpg",
+  "timestamp_ms": 294000.0000000012,
+  "timestamp_str": "0:04:54",
+  "gps": {
+    "lat": 19.3350264,
+    "lon": -99.1337715,
+    "alt": 2250.9,
+    "speed": 30.0
+  }
+}

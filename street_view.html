@@ -80,11 +80,11 @@
     const classIcons = {'car': 'fa-car', 'person': 'fa-person', 'motorcycle': 'fa-motorcycle', 'truck': 'fa-truck', 'bus': 'fa-bus', 'train': 'fa-train'};
     
     Promise.all([
-        fetch('../frames/extraction_metadata.json').then(r => r.json()),
-        fetch('../detections.json').then(r => r.json())
+        fetch('frames/extraction_metadata.json').then(r => r.json()),
+        fetch('detections.json').then(r => r.json())
     ]).then(([metaData, detData]) => {
         frames = metaData.frames.map(f => ({
-            image: '../frames/' + f.filename, 
+            image: 'frames/' + f.filename, 
             lat: f.gps.lat, lon: f.gps.lon, alt: f.gps.alt, index: f.index
         }));
         

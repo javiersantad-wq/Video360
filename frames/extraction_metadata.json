@@ -1,0 +1,2571 @@
+{
+  "video_path": "C:\\video\\360\\VID_20251209_123028_00_522(1).mp4",
+  "distance_interval": 10,
+  "total_frames": 197,
+  "total_distance": 2423.9681128249445,
+  "frames": [
+    {
+      "index": 0,
+      "filename": "frame_0000.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0000.jpg",
+      "timestamp_ms": 0,
+      "timestamp_str": "0:00:00",
+      "gps": {
+        "lat": 19.3343667,
+        "lon": -99.1258283,
+        "alt": 2249.7,
+        "timestamp_ms": 0,
+        "speed": 30
+      }
+    },
+    {
+      "index": 1,
+      "filename": "frame_0001.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0001.jpg",
+      "timestamp_ms": 4000.0000000000005,
+      "timestamp_str": "0:00:04",
+      "gps": {
+        "lat": 19.3343789,
+        "lon": -99.1259553,
+        "alt": 2251.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 2,
+      "filename": "frame_0002.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0002.jpg",
+      "timestamp_ms": 6333.333333333332,
+      "timestamp_str": "0:00:06.333000",
+      "gps": {
+        "lat": 19.3343952,
+        "lon": -99.12605256666666,
+        "alt": 2251.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 3,
+      "filename": "frame_0003.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0003.jpg",
+      "timestamp_ms": 8333.33333333333,
+      "timestamp_str": "0:00:08.333000",
+      "gps": {
+        "lat": 19.334414866666666,
+        "lon": -99.12616306666666,
+        "alt": 2252.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 4,
+      "filename": "frame_0004.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0004.jpg",
+      "timestamp_ms": 10333.333333333334,
+      "timestamp_str": "0:00:10.333000",
+      "gps": {
+        "lat": 19.334422233333335,
+        "lon": -99.12626166666666,
+        "alt": 2252.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 5,
+      "filename": "frame_0005.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0005.jpg",
+      "timestamp_ms": 15000.00000000001,
+      "timestamp_str": "0:00:15",
+      "gps": {
+        "lat": 19.3344781,
+        "lon": -99.126347,
+        "alt": 2254.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 6,
+      "filename": "frame_0006.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0006.jpg",
+      "timestamp_ms": 18000.000000000007,
+      "timestamp_str": "0:00:18",
+      "gps": {
+        "lat": 19.334608,
+        "lon": -99.1263252,
+        "alt": 2253.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 7,
+      "filename": "frame_0007.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0007.jpg",
+      "timestamp_ms": 20333.333333333332,
+      "timestamp_str": "0:00:20.333000",
+      "gps": {
+        "lat": 19.3347187,
+        "lon": -99.12630630000001,
+        "alt": 2251.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 8,
+      "filename": "frame_0008.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0008.jpg",
+      "timestamp_ms": 22333.333333333325,
+      "timestamp_str": "0:00:22.333000",
+      "gps": {
+        "lat": 19.33480893333333,
+        "lon": -99.12630513333333,
+        "alt": 2250.866666666667,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 9,
+      "filename": "frame_0009.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0009.jpg",
+      "timestamp_ms": 27333.333333333307,
+      "timestamp_str": "0:00:27.333000",
+      "gps": {
+        "lat": 19.334874333333335,
+        "lon": -99.1263985,
+        "alt": 2249.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 10,
+      "filename": "frame_0010.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0010.jpg",
+      "timestamp_ms": 29333.3333333333,
+      "timestamp_str": "0:00:29.333000",
+      "gps": {
+        "lat": 19.334896433333334,
+        "lon": -99.1264934,
+        "alt": 2249.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 11,
+      "filename": "frame_0011.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0011.jpg",
+      "timestamp_ms": 31333.333333333292,
+      "timestamp_str": "0:00:31.333000",
+      "gps": {
+        "lat": 19.334913566666668,
+        "lon": -99.1266029,
+        "alt": 2249.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 12,
+      "filename": "frame_0012.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0012.jpg",
+      "timestamp_ms": 33333.33333333329,
+      "timestamp_str": "0:00:33.333000",
+      "gps": {
+        "lat": 19.334934633333333,
+        "lon": -99.12672476666667,
+        "alt": 2249.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 13,
+      "filename": "frame_0013.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0013.jpg",
+      "timestamp_ms": 35333.33333333331,
+      "timestamp_str": "0:00:35.333000",
+      "gps": {
+        "lat": 19.334953000000002,
+        "lon": -99.12684416666666,
+        "alt": 2248.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 14,
+      "filename": "frame_0014.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0014.jpg",
+      "timestamp_ms": 37333.33333333332,
+      "timestamp_str": "0:00:37.333000",
+      "gps": {
+        "lat": 19.334971466666666,
+        "lon": -99.12695636666668,
+        "alt": 2249.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 15,
+      "filename": "frame_0015.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0015.jpg",
+      "timestamp_ms": 39333.333333333336,
+      "timestamp_str": "0:00:39.333000",
+      "gps": {
+        "lat": 19.334994133333335,
+        "lon": -99.12706933333332,
+        "alt": 2248.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 16,
+      "filename": "frame_0016.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0016.jpg",
+      "timestamp_ms": 41000.000000000015,
+      "timestamp_str": "0:00:41",
+      "gps": {
+        "lat": 19.3350163,
+        "lon": -99.1271892,
+        "alt": 2248.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 17,
+      "filename": "frame_0017.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0017.jpg",
+      "timestamp_ms": 43000.00000000003,
+      "timestamp_str": "0:00:43",
+      "gps": {
+        "lat": 19.3350394,
+        "lon": -99.1273076,
+        "alt": 2248.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 18,
+      "filename": "frame_0018.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0018.jpg",
+      "timestamp_ms": 46000.00000000005,
+      "timestamp_str": "0:00:46",
+      "gps": {
+        "lat": 19.3350655,
+        "lon": -99.1274143,
+        "alt": 2248.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 19,
+      "filename": "frame_0019.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0019.jpg",
+      "timestamp_ms": 49000.00000000007,
+      "timestamp_str": "0:00:49",
+      "gps": {
+        "lat": 19.3350734,
+        "lon": -99.1275495,
+        "alt": 2248.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 20,
+      "filename": "frame_0020.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0020.jpg",
+      "timestamp_ms": 52000.000000000095,
+      "timestamp_str": "0:00:52",
+      "gps": {
+        "lat": 19.3350184,
+        "lon": -99.1276288,
+        "alt": 2248.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 21,
+      "filename": "frame_0021.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0021.jpg",
+      "timestamp_ms": 54000.00000000011,
+      "timestamp_str": "0:00:54",
+      "gps": {
+        "lat": 19.334925,
+        "lon": -99.1276417,
+        "alt": 2248.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 22,
+      "filename": "frame_0022.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0022.jpg",
+      "timestamp_ms": 56000.000000000124,
+      "timestamp_str": "0:00:56",
+      "gps": {
+        "lat": 19.3348157,
+        "lon": -99.1276446,
+        "alt": 2248.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 23,
+      "filename": "frame_0023.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0023.jpg",
+      "timestamp_ms": 58000.00000000014,
+      "timestamp_str": "0:00:58",
+      "gps": {
+        "lat": 19.3346981,
+        "lon": -99.1276506,
+        "alt": 2248.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 24,
+      "filename": "frame_0024.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0024.jpg",
+      "timestamp_ms": 62000.00000000017,
+      "timestamp_str": "0:01:02",
+      "gps": {
+        "lat": 19.3345907,
+        "lon": -99.1276892,
+        "alt": 2248.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 25,
+      "filename": "frame_0025.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0025.jpg",
+      "timestamp_ms": 65000.00000000019,
+      "timestamp_str": "0:01:05",
+      "gps": {
+        "lat": 19.3345843,
+        "lon": -99.1277999,
+        "alt": 2248.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 26,
+      "filename": "frame_0026.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0026.jpg",
+      "timestamp_ms": 67000.00000000017,
+      "timestamp_str": "0:01:07",
+      "gps": {
+        "lat": 19.3345846,
+        "lon": -99.127899,
+        "alt": 2250.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 27,
+      "filename": "frame_0027.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0027.jpg",
+      "timestamp_ms": 69000.00000000015,
+      "timestamp_str": "0:01:09",
+      "gps": {
+        "lat": 19.3345832,
+        "lon": -99.1280049,
+        "alt": 2250.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 28,
+      "filename": "frame_0028.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0028.jpg",
+      "timestamp_ms": 72000.0000000001,
+      "timestamp_str": "0:01:12",
+      "gps": {
+        "lat": 19.3345884,
+        "lon": -99.128128,
+        "alt": 2252.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 29,
+      "filename": "frame_0029.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0029.jpg",
+      "timestamp_ms": 77000.00000000003,
+      "timestamp_str": "0:01:17",
+      "gps": {
+        "lat": 19.3346188,
+        "lon": -99.1282178,
+        "alt": 2252.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 30,
+      "filename": "frame_0030.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0030.jpg",
+      "timestamp_ms": 84333.33333333326,
+      "timestamp_str": "0:01:24.333000",
+      "gps": {
+        "lat": 19.334740833333335,
+        "lon": -99.12827566666667,
+        "alt": 2252.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 31,
+      "filename": "frame_0031.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0031.jpg",
+      "timestamp_ms": 86333.33333333323,
+      "timestamp_str": "0:01:26.333000",
+      "gps": {
+        "lat": 19.334867666666668,
+        "lon": -99.12827296666666,
+        "alt": 2252.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 32,
+      "filename": "frame_0032.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0032.jpg",
+      "timestamp_ms": 88333.3333333332,
+      "timestamp_str": "0:01:28.333000",
+      "gps": {
+        "lat": 19.3349754,
+        "lon": -99.128265,
+        "alt": 2251.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 33,
+      "filename": "frame_0033.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0033.jpg",
+      "timestamp_ms": 90333.33333333317,
+      "timestamp_str": "0:01:30.333000",
+      "gps": {
+        "lat": 19.335067566666666,
+        "lon": -99.1282812,
+        "alt": 2251.8333333333335,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 34,
+      "filename": "frame_0034.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0034.jpg",
+      "timestamp_ms": 92333.33333333314,
+      "timestamp_str": "0:01:32.333000",
+      "gps": {
+        "lat": 19.33514716666667,
+        "lon": -99.12835266666667,
+        "alt": 2252.5333333333333,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 35,
+      "filename": "frame_0035.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0035.jpg",
+      "timestamp_ms": 95333.3333333331,
+      "timestamp_str": "0:01:35.333000",
+      "gps": {
+        "lat": 19.3351662,
+        "lon": -99.12845623333334,
+        "alt": 2253.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 36,
+      "filename": "frame_0036.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0036.jpg",
+      "timestamp_ms": 99333.33333333304,
+      "timestamp_str": "0:01:39.333000",
+      "gps": {
+        "lat": 19.3350993,
+        "lon": -99.12855043333333,
+        "alt": 2252.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 37,
+      "filename": "frame_0037.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0037.jpg",
+      "timestamp_ms": 102333.333333333,
+      "timestamp_str": "0:01:42.333000",
+      "gps": {
+        "lat": 19.3349862,
+        "lon": -99.12856506666667,
+        "alt": 2253.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 38,
+      "filename": "frame_0038.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0038.jpg",
+      "timestamp_ms": 105333.33333333295,
+      "timestamp_str": "0:01:45.333000",
+      "gps": {
+        "lat": 19.334887300000002,
+        "lon": -99.12858413333333,
+        "alt": 2252.133333333333,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 39,
+      "filename": "frame_0039.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0039.jpg",
+      "timestamp_ms": 111333.33333333286,
+      "timestamp_str": "0:01:51.333000",
+      "gps": {
+        "lat": 19.334877733333332,
+        "lon": -99.12871143333334,
+        "alt": 2250.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 40,
+      "filename": "frame_0040.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0040.jpg",
+      "timestamp_ms": 114333.33333333282,
+      "timestamp_str": "0:01:54.333000",
+      "gps": {
+        "lat": 19.334922833333334,
+        "lon": -99.12882876666667,
+        "alt": 2250.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 41,
+      "filename": "frame_0041.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0041.jpg",
+      "timestamp_ms": 117333.33333333278,
+      "timestamp_str": "0:01:57.333000",
+      "gps": {
+        "lat": 19.334957133333333,
+        "lon": -99.12893536666667,
+        "alt": 2251.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 42,
+      "filename": "frame_0042.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0042.jpg",
+      "timestamp_ms": 119333.33333333275,
+      "timestamp_str": "0:01:59.333000",
+      "gps": {
+        "lat": 19.335009466666666,
+        "lon": -99.12902383333333,
+        "alt": 2250.8333333333335,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 43,
+      "filename": "frame_0043.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0043.jpg",
+      "timestamp_ms": 121333.33333333272,
+      "timestamp_str": "0:02:01.333000",
+      "gps": {
+        "lat": 19.335068033333332,
+        "lon": -99.1291366,
+        "alt": 2250.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 44,
+      "filename": "frame_0044.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0044.jpg",
+      "timestamp_ms": 123333.33333333269,
+      "timestamp_str": "0:02:03.333000",
+      "gps": {
+        "lat": 19.335130133333333,
+        "lon": -99.1292546,
+        "alt": 2251.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 45,
+      "filename": "frame_0045.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0045.jpg",
+      "timestamp_ms": 125999.99999999932,
+      "timestamp_str": "0:02:05.999000",
+      "gps": {
+        "lat": 19.3351705,
+        "lon": -99.1293403,
+        "alt": 2251.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 46,
+      "filename": "frame_0046.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0046.jpg",
+      "timestamp_ms": 128333.33333333262,
+      "timestamp_str": "0:02:08.333000",
+      "gps": {
+        "lat": 19.335239899999998,
+        "lon": -99.1294645,
+        "alt": 2251.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 47,
+      "filename": "frame_0047.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0047.jpg",
+      "timestamp_ms": 130333.33333333259,
+      "timestamp_str": "0:02:10.333000",
+      "gps": {
+        "lat": 19.335301933333334,
+        "lon": -99.12956823333333,
+        "alt": 2251.5666666666666,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 48,
+      "filename": "frame_0048.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0048.jpg",
+      "timestamp_ms": 132333.33333333262,
+      "timestamp_str": "0:02:12.333000",
+      "gps": {
+        "lat": 19.335362866666667,
+        "lon": -99.12967946666667,
+        "alt": 2251.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 49,
+      "filename": "frame_0049.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0049.jpg",
+      "timestamp_ms": 134333.33333333267,
+      "timestamp_str": "0:02:14.333000",
+      "gps": {
+        "lat": 19.335421866666668,
+        "lon": -99.12977176666666,
+        "alt": 2251.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 50,
+      "filename": "frame_0050.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0050.jpg",
+      "timestamp_ms": 138333.3333333328,
+      "timestamp_str": "0:02:18.333000",
+      "gps": {
+        "lat": 19.335478766666668,
+        "lon": -99.129846,
+        "alt": 2251.8333333333335,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 51,
+      "filename": "frame_0051.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0051.jpg",
+      "timestamp_ms": 142333.3333333329,
+      "timestamp_str": "0:02:22.333000",
+      "gps": {
+        "lat": 19.335586666666668,
+        "lon": -99.12981040000001,
+        "alt": 2252.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 52,
+      "filename": "frame_0052.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0052.jpg",
+      "timestamp_ms": 144333.33333333296,
+      "timestamp_str": "0:02:24.333000",
+      "gps": {
+        "lat": 19.335669433333333,
+        "lon": -99.12975866666667,
+        "alt": 2252.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 53,
+      "filename": "frame_0053.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0053.jpg",
+      "timestamp_ms": 146333.33333333302,
+      "timestamp_str": "0:02:26.333000",
+      "gps": {
+        "lat": 19.335762233333334,
+        "lon": -99.1297026,
+        "alt": 2252.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 54,
+      "filename": "frame_0054.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0054.jpg",
+      "timestamp_ms": 148333.33333333308,
+      "timestamp_str": "0:02:28.333000",
+      "gps": {
+        "lat": 19.335865566666666,
+        "lon": -99.12965866666667,
+        "alt": 2252.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 55,
+      "filename": "frame_0055.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0055.jpg",
+      "timestamp_ms": 150333.33333333314,
+      "timestamp_str": "0:02:30.333000",
+      "gps": {
+        "lat": 19.33596096666667,
+        "lon": -99.12962786666667,
+        "alt": 2252.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 56,
+      "filename": "frame_0056.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0056.jpg",
+      "timestamp_ms": 152333.3333333332,
+      "timestamp_str": "0:02:32.333000",
+      "gps": {
+        "lat": 19.336056233333334,
+        "lon": -99.1295933,
+        "alt": 2251.9666666666667,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 57,
+      "filename": "frame_0057.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0057.jpg",
+      "timestamp_ms": 154333.33333333326,
+      "timestamp_str": "0:02:34.333000",
+      "gps": {
+        "lat": 19.336154566666668,
+        "lon": -99.1295555,
+        "alt": 2252.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 58,
+      "filename": "frame_0058.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0058.jpg",
+      "timestamp_ms": 156333.3333333333,
+      "timestamp_str": "0:02:36.333000",
+      "gps": {
+        "lat": 19.336265866666665,
+        "lon": -99.12952383333334,
+        "alt": 2252.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 59,
+      "filename": "frame_0059.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0059.jpg",
+      "timestamp_ms": 158000.00000000003,
+      "timestamp_str": "0:02:38",
+      "gps": {
+        "lat": 19.336386,
+        "lon": -99.1294973,
+        "alt": 2251.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 60,
+      "filename": "frame_0060.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0060.jpg",
+      "timestamp_ms": 160000.0000000001,
+      "timestamp_str": "0:02:40",
+      "gps": {
+        "lat": 19.3364991,
+        "lon": -99.1294674,
+        "alt": 2250.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 61,
+      "filename": "frame_0061.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0061.jpg",
+      "timestamp_ms": 162000.00000000015,
+      "timestamp_str": "0:02:42",
+      "gps": {
+        "lat": 19.3366086,
+        "lon": -99.1294389,
+        "alt": 2250.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 62,
+      "filename": "frame_0062.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0062.jpg",
+      "timestamp_ms": 164000.0000000002,
+      "timestamp_str": "0:02:44",
+      "gps": {
+        "lat": 19.3367218,
+        "lon": -99.1294132,
+        "alt": 2249.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 63,
+      "filename": "frame_0063.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0063.jpg",
+      "timestamp_ms": 166000.00000000026,
+      "timestamp_str": "0:02:46",
+      "gps": {
+        "lat": 19.3368353,
+        "lon": -99.1293924,
+        "alt": 2249.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 64,
+      "filename": "frame_0064.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0064.jpg",
+      "timestamp_ms": 168000.00000000032,
+      "timestamp_str": "0:02:48",
+      "gps": {
+        "lat": 19.3369542,
+        "lon": -99.1293803,
+        "alt": 2249.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 65,
+      "filename": "frame_0065.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0065.jpg",
+      "timestamp_ms": 170000.00000000038,
+      "timestamp_str": "0:02:50",
+      "gps": {
+        "lat": 19.3370676,
+        "lon": -99.1293732,
+        "alt": 2249.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 66,
+      "filename": "frame_0066.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0066.jpg",
+      "timestamp_ms": 173000.00000000047,
+      "timestamp_str": "0:02:53",
+      "gps": {
+        "lat": 19.3371714,
+        "lon": -99.1293749,
+        "alt": 2249.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 67,
+      "filename": "frame_0067.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0067.jpg",
+      "timestamp_ms": 178000.0000000006,
+      "timestamp_str": "0:02:58",
+      "gps": {
+        "lat": 19.3372664,
+        "lon": -99.129433,
+        "alt": 2249.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 68,
+      "filename": "frame_0068.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0068.jpg",
+      "timestamp_ms": 180666.66666666736,
+      "timestamp_str": "0:03:00.666000",
+      "gps": {
+        "lat": 19.337275933333334,
+        "lon": -99.12952866666666,
+        "alt": 2249.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 69,
+      "filename": "frame_0069.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0069.jpg",
+      "timestamp_ms": 183000.00000000076,
+      "timestamp_str": "0:03:03",
+      "gps": {
+        "lat": 19.3372899,
+        "lon": -99.1296805,
+        "alt": 2249.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 70,
+      "filename": "frame_0070.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0070.jpg",
+      "timestamp_ms": 185000.00000000081,
+      "timestamp_str": "0:03:05",
+      "gps": {
+        "lat": 19.3372994,
+        "lon": -99.1297956,
+        "alt": 2249.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 71,
+      "filename": "frame_0071.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0071.jpg",
+      "timestamp_ms": 187000.00000000087,
+      "timestamp_str": "0:03:07",
+      "gps": {
+        "lat": 19.3373062,
+        "lon": -99.1299197,
+        "alt": 2249.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 72,
+      "filename": "frame_0072.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0072.jpg",
+      "timestamp_ms": 189000.00000000093,
+      "timestamp_str": "0:03:09",
+      "gps": {
+        "lat": 19.337305,
+        "lon": -99.1300253,
+        "alt": 2249.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 73,
+      "filename": "frame_0073.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0073.jpg",
+      "timestamp_ms": 192000.00000000102,
+      "timestamp_str": "0:03:12",
+      "gps": {
+        "lat": 19.3373155,
+        "lon": -99.1301723,
+        "alt": 2250.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 74,
+      "filename": "frame_0074.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0074.jpg",
+      "timestamp_ms": 194000.00000000108,
+      "timestamp_str": "0:03:14",
+      "gps": {
+        "lat": 19.337318,
+        "lon": -99.1302976,
+        "alt": 2250.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 75,
+      "filename": "frame_0075.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0075.jpg",
+      "timestamp_ms": 196000.00000000114,
+      "timestamp_str": "0:03:16",
+      "gps": {
+        "lat": 19.3373262,
+        "lon": -99.1304301,
+        "alt": 2250.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 76,
+      "filename": "frame_0076.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0076.jpg",
+      "timestamp_ms": 198000.0000000012,
+      "timestamp_str": "0:03:18",
+      "gps": {
+        "lat": 19.3373243,
+        "lon": -99.1305264,
+        "alt": 2250.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 77,
+      "filename": "frame_0077.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0077.jpg",
+      "timestamp_ms": 201000.00000000128,
+      "timestamp_str": "0:03:21",
+      "gps": {
+        "lat": 19.3373289,
+        "lon": -99.1306573,
+        "alt": 2250.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 78,
+      "filename": "frame_0078.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0078.jpg",
+      "timestamp_ms": 203000.00000000134,
+      "timestamp_str": "0:03:23",
+      "gps": {
+        "lat": 19.3373349,
+        "lon": -99.1307718,
+        "alt": 2250.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 79,
+      "filename": "frame_0079.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0079.jpg",
+      "timestamp_ms": 205000.0000000014,
+      "timestamp_str": "0:03:25",
+      "gps": {
+        "lat": 19.3373414,
+        "lon": -99.1308994,
+        "alt": 2251.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 80,
+      "filename": "frame_0080.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0080.jpg",
+      "timestamp_ms": 207000.00000000146,
+      "timestamp_str": "0:03:27",
+      "gps": {
+        "lat": 19.3373398,
+        "lon": -99.1310202,
+        "alt": 2252.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 81,
+      "filename": "frame_0081.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0081.jpg",
+      "timestamp_ms": 210000.00000000154,
+      "timestamp_str": "0:03:30",
+      "gps": {
+        "lat": 19.3373508,
+        "lon": -99.1311517,
+        "alt": 2252.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 82,
+      "filename": "frame_0082.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0082.jpg",
+      "timestamp_ms": 212000.0000000016,
+      "timestamp_str": "0:03:32",
+      "gps": {
+        "lat": 19.3373535,
+        "lon": -99.1312645,
+        "alt": 2252.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 83,
+      "filename": "frame_0083.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0083.jpg",
+      "timestamp_ms": 214000.00000000166,
+      "timestamp_str": "0:03:34",
+      "gps": {
+        "lat": 19.3373574,
+        "lon": -99.1313875,
+        "alt": 2252.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 84,
+      "filename": "frame_0084.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0084.jpg",
+      "timestamp_ms": 216000.00000000172,
+      "timestamp_str": "0:03:36",
+      "gps": {
+        "lat": 19.3373643,
+        "lon": -99.131514,
+        "alt": 2252.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 85,
+      "filename": "frame_0085.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0085.jpg",
+      "timestamp_ms": 218000.00000000178,
+      "timestamp_str": "0:03:38",
+      "gps": {
+        "lat": 19.3373644,
+        "lon": -99.1316514,
+        "alt": 2253.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 86,
+      "filename": "frame_0086.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0086.jpg",
+      "timestamp_ms": 220000.00000000183,
+      "timestamp_str": "0:03:40",
+      "gps": {
+        "lat": 19.3373709,
+        "lon": -99.1317835,
+        "alt": 2252.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 87,
+      "filename": "frame_0087.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0087.jpg",
+      "timestamp_ms": 222000.0000000019,
+      "timestamp_str": "0:03:42",
+      "gps": {
+        "lat": 19.3373753,
+        "lon": -99.1319161,
+        "alt": 2252.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 88,
+      "filename": "frame_0088.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0088.jpg",
+      "timestamp_ms": 224000.00000000195,
+      "timestamp_str": "0:03:44",
+      "gps": {
+        "lat": 19.3373788,
+        "lon": -99.1320572,
+        "alt": 2252.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 89,
+      "filename": "frame_0089.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0089.jpg",
+      "timestamp_ms": 226000.000000002,
+      "timestamp_str": "0:03:46",
+      "gps": {
+        "lat": 19.337383,
+        "lon": -99.1321963,
+        "alt": 2253.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 90,
+      "filename": "frame_0090.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0090.jpg",
+      "timestamp_ms": 228000.00000000207,
+      "timestamp_str": "0:03:48",
+      "gps": {
+        "lat": 19.3373887,
+        "lon": -99.1323337,
+        "alt": 2253.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 91,
+      "filename": "frame_0091.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0091.jpg",
+      "timestamp_ms": 230000.00000000212,
+      "timestamp_str": "0:03:50",
+      "gps": {
+        "lat": 19.3373953,
+        "lon": -99.1324635,
+        "alt": 2254.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 92,
+      "filename": "frame_0092.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0092.jpg",
+      "timestamp_ms": 232000.00000000218,
+      "timestamp_str": "0:03:52",
+      "gps": {
+        "lat": 19.3373932,
+        "lon": -99.1325931,
+        "alt": 2253.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 93,
+      "filename": "frame_0093.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0093.jpg",
+      "timestamp_ms": 234000.00000000224,
+      "timestamp_str": "0:03:54",
+      "gps": {
+        "lat": 19.337385,
+        "lon": -99.1327199,
+        "alt": 2253.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 94,
+      "filename": "frame_0094.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0094.jpg",
+      "timestamp_ms": 237000.00000000233,
+      "timestamp_str": "0:03:57",
+      "gps": {
+        "lat": 19.3373141,
+        "lon": -99.1328305,
+        "alt": 2252.9999999999995,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 95,
+      "filename": "frame_0095.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0095.jpg",
+      "timestamp_ms": 239333.33333333573,
+      "timestamp_str": "0:03:59.333000",
+      "gps": {
+        "lat": 19.337224766666665,
+        "lon": -99.13284416666667,
+        "alt": 2252.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 96,
+      "filename": "frame_0096.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0096.jpg",
+      "timestamp_ms": 241000.00000000244,
+      "timestamp_str": "0:04:01",
+      "gps": {
+        "lat": 19.3371354,
+        "lon": -99.1328124,
+        "alt": 2252.3000000000006,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 97,
+      "filename": "frame_0097.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0097.jpg",
+      "timestamp_ms": 243000.0000000025,
+      "timestamp_str": "0:04:03",
+      "gps": {
+        "lat": 19.3370418,
+        "lon": -99.1327668,
+        "alt": 2252.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 98,
+      "filename": "frame_0098.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0098.jpg",
+      "timestamp_ms": 245000.00000000256,
+      "timestamp_str": "0:04:05",
+      "gps": {
+        "lat": 19.3369546,
+        "lon": -99.1327368,
+        "alt": 2252.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 99,
+      "filename": "frame_0099.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0099.jpg",
+      "timestamp_ms": 247000.00000000262,
+      "timestamp_str": "0:04:07",
+      "gps": {
+        "lat": 19.3368562,
+        "lon": -99.1327114,
+        "alt": 2252.3999999999996,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 100,
+      "filename": "frame_0100.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0100.jpg",
+      "timestamp_ms": 249000.00000000268,
+      "timestamp_str": "0:04:09",
+      "gps": {
+        "lat": 19.3367324,
+        "lon": -99.1326901,
+        "alt": 2252.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 101,
+      "filename": "frame_0101.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0101.jpg",
+      "timestamp_ms": 251000.00000000274,
+      "timestamp_str": "0:04:11",
+      "gps": {
+        "lat": 19.3366261,
+        "lon": -99.1326731,
+        "alt": 2252.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 102,
+      "filename": "frame_0102.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0102.jpg",
+      "timestamp_ms": 253000.0000000028,
+      "timestamp_str": "0:04:13",
+      "gps": {
+        "lat": 19.3365194,
+        "lon": -99.1326654,
+        "alt": 2252.1999999999994,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 103,
+      "filename": "frame_0103.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0103.jpg",
+      "timestamp_ms": 255333.3333333362,
+      "timestamp_str": "0:04:15.333000",
+      "gps": {
+        "lat": 19.336428766666668,
+        "lon": -99.13266116666667,
+        "alt": 2251.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 104,
+      "filename": "frame_0104.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0104.jpg",
+      "timestamp_ms": 258000.00000000294,
+      "timestamp_str": "0:04:18",
+      "gps": {
+        "lat": 19.3363198,
+        "lon": -99.1326681,
+        "alt": 2251.4000000000005,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 105,
+      "filename": "frame_0105.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0105.jpg",
+      "timestamp_ms": 260333.33333333634,
+      "timestamp_str": "0:04:20.333000",
+      "gps": {
+        "lat": 19.336229799999998,
+        "lon": -99.1326706,
+        "alt": 2251.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 106,
+      "filename": "frame_0106.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0106.jpg",
+      "timestamp_ms": 263000.000000003,
+      "timestamp_str": "0:04:23",
+      "gps": {
+        "lat": 19.3360947,
+        "lon": -99.1327022,
+        "alt": 2250.3999999999996,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 107,
+      "filename": "frame_0107.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0107.jpg",
+      "timestamp_ms": 265000.0000000029,
+      "timestamp_str": "0:04:25",
+      "gps": {
+        "lat": 19.3359747,
+        "lon": -99.1327458,
+        "alt": 2248.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 108,
+      "filename": "frame_0108.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0108.jpg",
+      "timestamp_ms": 267000.0000000028,
+      "timestamp_str": "0:04:27",
+      "gps": {
+        "lat": 19.335846,
+        "lon": -99.132789,
+        "alt": 2248.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 109,
+      "filename": "frame_0109.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0109.jpg",
+      "timestamp_ms": 269000.0000000027,
+      "timestamp_str": "0:04:29",
+      "gps": {
+        "lat": 19.3357506,
+        "lon": -99.1328352,
+        "alt": 2248.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 110,
+      "filename": "frame_0110.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0110.jpg",
+      "timestamp_ms": 271000.00000000256,
+      "timestamp_str": "0:04:31",
+      "gps": {
+        "lat": 19.335659,
+        "lon": -99.1328631,
+        "alt": 2248.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 111,
+      "filename": "frame_0111.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0111.jpg",
+      "timestamp_ms": 273000.00000000244,
+      "timestamp_str": "0:04:33",
+      "gps": {
+        "lat": 19.3355698,
+        "lon": -99.1329089,
+        "alt": 2248.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 112,
+      "filename": "frame_0112.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0112.jpg",
+      "timestamp_ms": 276000.00000000227,
+      "timestamp_str": "0:04:36",
+      "gps": {
+        "lat": 19.3354705,
+        "lon": -99.132976,
+        "alt": 2248.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 113,
+      "filename": "frame_0113.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0113.jpg",
+      "timestamp_ms": 279000.0000000021,
+      "timestamp_str": "0:04:39",
+      "gps": {
+        "lat": 19.3353682,
+        "lon": -99.1330661,
+        "alt": 2249.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 114,
+      "filename": "frame_0114.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0114.jpg",
+      "timestamp_ms": 281000.000000002,
+      "timestamp_str": "0:04:41",
+      "gps": {
+        "lat": 19.3353003,
+        "lon": -99.1331406,
+        "alt": 2250.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 115,
+      "filename": "frame_0115.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0115.jpg",
+      "timestamp_ms": 283000.00000000186,
+      "timestamp_str": "0:04:43",
+      "gps": {
+        "lat": 19.3352304,
+        "lon": -99.1332399,
+        "alt": 2250.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 116,
+      "filename": "frame_0116.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0116.jpg",
+      "timestamp_ms": 285000.00000000175,
+      "timestamp_str": "0:04:45",
+      "gps": {
+        "lat": 19.3351723,
+        "lon": -99.1333316,
+        "alt": 2250.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 117,
+      "filename": "frame_0117.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0117.jpg",
+      "timestamp_ms": 288000.0000000016,
+      "timestamp_str": "0:04:48",
+      "gps": {
+        "lat": 19.3351181,
+        "lon": -99.1334329,
+        "alt": 2250.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 118,
+      "filename": "frame_0118.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0118.jpg",
+      "timestamp_ms": 290000.00000000146,
+      "timestamp_str": "0:04:50",
+      "gps": {
+        "lat": 19.3350765,
+        "lon": -99.1335321,
+        "alt": 2250.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 119,
+      "filename": "frame_0119.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0119.jpg",
+      "timestamp_ms": 292000.00000000134,
+      "timestamp_str": "0:04:52",
+      "gps": {
+        "lat": 19.3350421,
+        "lon": -99.1336441,
+        "alt": 2250.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 120,
+      "filename": "frame_0120.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0120.jpg",
+      "timestamp_ms": 294000.0000000012,
+      "timestamp_str": "0:04:54",
+      "gps": {
+        "lat": 19.3350264,
+        "lon": -99.1337715,
+        "alt": 2250.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 121,
+      "filename": "frame_0121.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0121.jpg",
+      "timestamp_ms": 296000.0000000011,
+      "timestamp_str": "0:04:56",
+      "gps": {
+        "lat": 19.3350284,
+        "lon": -99.1338819,
+        "alt": 2252.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 122,
+      "filename": "frame_0122.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0122.jpg",
+      "timestamp_ms": 299000.00000000093,
+      "timestamp_str": "0:04:59",
+      "gps": {
+        "lat": 19.3350467,
+        "lon": -99.1340122,
+        "alt": 2253.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 123,
+      "filename": "frame_0123.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0123.jpg",
+      "timestamp_ms": 301000.0000000008,
+      "timestamp_str": "0:05:01",
+      "gps": {
+        "lat": 19.3350657,
+        "lon": -99.1341232,
+        "alt": 2253.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 124,
+      "filename": "frame_0124.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0124.jpg",
+      "timestamp_ms": 303000.0000000007,
+      "timestamp_str": "0:05:03",
+      "gps": {
+        "lat": 19.3350884,
+        "lon": -99.1342445,
+        "alt": 2252.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 125,
+      "filename": "frame_0125.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0125.jpg",
+      "timestamp_ms": 305000.0000000006,
+      "timestamp_str": "0:05:05",
+      "gps": {
+        "lat": 19.335106,
+        "lon": -99.1343704,
+        "alt": 2252.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 126,
+      "filename": "frame_0126.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0126.jpg",
+      "timestamp_ms": 307000.00000000047,
+      "timestamp_str": "0:05:07",
+      "gps": {
+        "lat": 19.3351294,
+        "lon": -99.1344964,
+        "alt": 2251.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 127,
+      "filename": "frame_0127.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0127.jpg",
+      "timestamp_ms": 309000.00000000035,
+      "timestamp_str": "0:05:09",
+      "gps": {
+        "lat": 19.3351567,
+        "lon": -99.1346273,
+        "alt": 2250.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 128,
+      "filename": "frame_0128.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0128.jpg",
+      "timestamp_ms": 311000.00000000023,
+      "timestamp_str": "0:05:11",
+      "gps": {
+        "lat": 19.3351775,
+        "lon": -99.1347276,
+        "alt": 2250.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 129,
+      "filename": "frame_0129.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0129.jpg",
+      "timestamp_ms": 314000.00000000006,
+      "timestamp_str": "0:05:14",
+      "gps": {
+        "lat": 19.3352122,
+        "lon": -99.1348288,
+        "alt": 2251.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 130,
+      "filename": "frame_0130.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0130.jpg",
+      "timestamp_ms": 317333.3333333332,
+      "timestamp_str": "0:05:17.333000",
+      "gps": {
+        "lat": 19.33525033333333,
+        "lon": -99.1349592,
+        "alt": 2250.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 131,
+      "filename": "frame_0131.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0131.jpg",
+      "timestamp_ms": 319333.3333333331,
+      "timestamp_str": "0:05:19.333000",
+      "gps": {
+        "lat": 19.335285666666667,
+        "lon": -99.13507176666667,
+        "alt": 2250.9333333333334,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 132,
+      "filename": "frame_0132.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0132.jpg",
+      "timestamp_ms": 321333.33333333296,
+      "timestamp_str": "0:05:21.333000",
+      "gps": {
+        "lat": 19.335326666666667,
+        "lon": -99.13519360000001,
+        "alt": 2251.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 133,
+      "filename": "frame_0133.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0133.jpg",
+      "timestamp_ms": 323333.33333333285,
+      "timestamp_str": "0:05:23.333000",
+      "gps": {
+        "lat": 19.335369066666665,
+        "lon": -99.13531553333333,
+        "alt": 2251.6666666666665,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 134,
+      "filename": "frame_0134.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0134.jpg",
+      "timestamp_ms": 325333.33333333273,
+      "timestamp_str": "0:05:25.333000",
+      "gps": {
+        "lat": 19.3354061,
+        "lon": -99.1354055,
+        "alt": 2251.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 135,
+      "filename": "frame_0135.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0135.jpg",
+      "timestamp_ms": 327999.99999999924,
+      "timestamp_str": "0:05:27.999000",
+      "gps": {
+        "lat": 19.3354458,
+        "lon": -99.1354915,
+        "alt": 2250.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 136,
+      "filename": "frame_0136.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0136.jpg",
+      "timestamp_ms": 329333.3333333325,
+      "timestamp_str": "0:05:29.333000",
+      "gps": {
+        "lat": 19.335485300000002,
+        "lon": -99.13559153333334,
+        "alt": 2250.4666666666667,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 137,
+      "filename": "frame_0137.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0137.jpg",
+      "timestamp_ms": 331333.3333333324,
+      "timestamp_str": "0:05:31.333000",
+      "gps": {
+        "lat": 19.3355281,
+        "lon": -99.1356888,
+        "alt": 2250.633333333333,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 138,
+      "filename": "frame_0138.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0138.jpg",
+      "timestamp_ms": 333333.33333333227,
+      "timestamp_str": "0:05:33.333000",
+      "gps": {
+        "lat": 19.335568333333335,
+        "lon": -99.13577903333334,
+        "alt": 2250.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 139,
+      "filename": "frame_0139.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0139.jpg",
+      "timestamp_ms": 335333.33333333215,
+      "timestamp_str": "0:05:35.333000",
+      "gps": {
+        "lat": 19.335620233333334,
+        "lon": -99.13587243333333,
+        "alt": 2249.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 140,
+      "filename": "frame_0140.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0140.jpg",
+      "timestamp_ms": 337333.33333333203,
+      "timestamp_str": "0:05:37.333000",
+      "gps": {
+        "lat": 19.335673,
+        "lon": -99.13597793333334,
+        "alt": 2248.4666666666667,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 141,
+      "filename": "frame_0141.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0141.jpg",
+      "timestamp_ms": 339333.3333333319,
+      "timestamp_str": "0:05:39.333000",
+      "gps": {
+        "lat": 19.3357343,
+        "lon": -99.13607773333332,
+        "alt": 2246.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 142,
+      "filename": "frame_0142.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0142.jpg",
+      "timestamp_ms": 341333.3333333318,
+      "timestamp_str": "0:05:41.333000",
+      "gps": {
+        "lat": 19.33578693333333,
+        "lon": -99.13619153333333,
+        "alt": 2246.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 143,
+      "filename": "frame_0143.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0143.jpg",
+      "timestamp_ms": 343333.3333333317,
+      "timestamp_str": "0:05:43.333000",
+      "gps": {
+        "lat": 19.335840599999997,
+        "lon": -99.13629516666667,
+        "alt": 2245.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 144,
+      "filename": "frame_0144.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0144.jpg",
+      "timestamp_ms": 345333.33333333157,
+      "timestamp_str": "0:05:45.333000",
+      "gps": {
+        "lat": 19.335892933333334,
+        "lon": -99.13639093333333,
+        "alt": 2245.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 145,
+      "filename": "frame_0145.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0145.jpg",
+      "timestamp_ms": 347333.33333333145,
+      "timestamp_str": "0:05:47.333000",
+      "gps": {
+        "lat": 19.335945333333335,
+        "lon": -99.1364773,
+        "alt": 2244.1666666666665,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 146,
+      "filename": "frame_0146.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0146.jpg",
+      "timestamp_ms": 350999.9999999979,
+      "timestamp_str": "0:05:50.999000",
+      "gps": {
+        "lat": 19.3359994,
+        "lon": -99.1365539,
+        "alt": 2243.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 147,
+      "filename": "frame_0147.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0147.jpg",
+      "timestamp_ms": 355333.333333331,
+      "timestamp_str": "0:05:55.333000",
+      "gps": {
+        "lat": 19.336054366666666,
+        "lon": -99.13662973333334,
+        "alt": 2242.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 148,
+      "filename": "frame_0148.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0148.jpg",
+      "timestamp_ms": 358333.3333333308,
+      "timestamp_str": "0:05:58.333000",
+      "gps": {
+        "lat": 19.3361253,
+        "lon": -99.13671563333332,
+        "alt": 2241.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 149,
+      "filename": "frame_0149.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0149.jpg",
+      "timestamp_ms": 363333.3333333305,
+      "timestamp_str": "0:06:03.333000",
+      "gps": {
+        "lat": 19.336201566666666,
+        "lon": -99.1367702,
+        "alt": 2241.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 150,
+      "filename": "frame_0150.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0150.jpg",
+      "timestamp_ms": 385333.33333332924,
+      "timestamp_str": "0:06:25.333000",
+      "gps": {
+        "lat": 19.3363189,
+        "lon": -99.13681666666666,
+        "alt": 2242.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 151,
+      "filename": "frame_0151.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0151.jpg",
+      "timestamp_ms": 388333.33333332906,
+      "timestamp_str": "0:06:28.333000",
+      "gps": {
+        "lat": 19.336426633333332,
+        "lon": -99.1368257,
+        "alt": 2242.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 152,
+      "filename": "frame_0152.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0152.jpg",
+      "timestamp_ms": 391333.3333333289,
+      "timestamp_str": "0:06:31.333000",
+      "gps": {
+        "lat": 19.336549666666667,
+        "lon": -99.1368337,
+        "alt": 2243.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 153,
+      "filename": "frame_0153.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0153.jpg",
+      "timestamp_ms": 393333.3333333288,
+      "timestamp_str": "0:06:33.333000",
+      "gps": {
+        "lat": 19.3366544,
+        "lon": -99.13683793333333,
+        "alt": 2242.9,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 154,
+      "filename": "frame_0154.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0154.jpg",
+      "timestamp_ms": 395333.33333332866,
+      "timestamp_str": "0:06:35.333000",
+      "gps": {
+        "lat": 19.336752366666666,
+        "lon": -99.1368366,
+        "alt": 2242.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 155,
+      "filename": "frame_0155.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0155.jpg",
+      "timestamp_ms": 409333.33333332784,
+      "timestamp_str": "0:06:49.333000",
+      "gps": {
+        "lat": 19.3368533,
+        "lon": -99.13684526666667,
+        "alt": 2243.566666666667,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 156,
+      "filename": "frame_0156.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0156.jpg",
+      "timestamp_ms": 412333.33333332767,
+      "timestamp_str": "0:06:52.333000",
+      "gps": {
+        "lat": 19.336956866666668,
+        "lon": -99.13686053333333,
+        "alt": 2243.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 157,
+      "filename": "frame_0157.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0157.jpg",
+      "timestamp_ms": 414333.33333332755,
+      "timestamp_str": "0:06:54.333000",
+      "gps": {
+        "lat": 19.337058000000003,
+        "lon": -99.1368696,
+        "alt": 2243.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 158,
+      "filename": "frame_0158.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0158.jpg",
+      "timestamp_ms": 416333.33333332743,
+      "timestamp_str": "0:06:56.333000",
+      "gps": {
+        "lat": 19.337171833333333,
+        "lon": -99.13688746666666,
+        "alt": 2243.8666666666672,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 159,
+      "filename": "frame_0159.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0159.jpg",
+      "timestamp_ms": 418333.3333333273,
+      "timestamp_str": "0:06:58.333000",
+      "gps": {
+        "lat": 19.3372887,
+        "lon": -99.13689836666667,
+        "alt": 2243.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 160,
+      "filename": "frame_0160.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0160.jpg",
+      "timestamp_ms": 420333.3333333272,
+      "timestamp_str": "0:07:00.333000",
+      "gps": {
+        "lat": 19.3374096,
+        "lon": -99.13690963333333,
+        "alt": 2243.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 161,
+      "filename": "frame_0161.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0161.jpg",
+      "timestamp_ms": 422333.3333333271,
+      "timestamp_str": "0:07:02.333000",
+      "gps": {
+        "lat": 19.3375436,
+        "lon": -99.13692273333334,
+        "alt": 2243.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 162,
+      "filename": "frame_0162.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0162.jpg",
+      "timestamp_ms": 424333.33333332697,
+      "timestamp_str": "0:07:04.333000",
+      "gps": {
+        "lat": 19.337660333333336,
+        "lon": -99.13693423333333,
+        "alt": 2243.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 163,
+      "filename": "frame_0163.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0163.jpg",
+      "timestamp_ms": 426333.33333332685,
+      "timestamp_str": "0:07:06.333000",
+      "gps": {
+        "lat": 19.337763866666666,
+        "lon": -99.13694256666668,
+        "alt": 2243.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 164,
+      "filename": "frame_0164.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0164.jpg",
+      "timestamp_ms": 428333.33333332674,
+      "timestamp_str": "0:07:08.333000",
+      "gps": {
+        "lat": 19.3378575,
+        "lon": -99.13693796666666,
+        "alt": 2242.466666666667,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 165,
+      "filename": "frame_0165.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0165.jpg",
+      "timestamp_ms": 431333.33333332656,
+      "timestamp_str": "0:07:11.333000",
+      "gps": {
+        "lat": 19.3379317,
+        "lon": -99.13685423333332,
+        "alt": 2240.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 166,
+      "filename": "frame_0166.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0166.jpg",
+      "timestamp_ms": 433333.33333332645,
+      "timestamp_str": "0:07:13.333000",
+      "gps": {
+        "lat": 19.3379554,
+        "lon": -99.1367568,
+        "alt": 2239.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 167,
+      "filename": "frame_0167.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0167.jpg",
+      "timestamp_ms": 436333.33333332627,
+      "timestamp_str": "0:07:16.333000",
+      "gps": {
+        "lat": 19.3379332,
+        "lon": -99.1366488,
+        "alt": 2238.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 168,
+      "filename": "frame_0168.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0168.jpg",
+      "timestamp_ms": 439333.3333333261,
+      "timestamp_str": "0:07:19.333000",
+      "gps": {
+        "lat": 19.337877166666665,
+        "lon": -99.13652426666667,
+        "alt": 2238.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 169,
+      "filename": "frame_0169.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0169.jpg",
+      "timestamp_ms": 441333.333333326,
+      "timestamp_str": "0:07:21.333000",
+      "gps": {
+        "lat": 19.337842066666667,
+        "lon": -99.13641073333334,
+        "alt": 2239.1,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 170,
+      "filename": "frame_0170.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0170.jpg",
+      "timestamp_ms": 443333.33333332586,
+      "timestamp_str": "0:07:23.333000",
+      "gps": {
+        "lat": 19.3378015,
+        "lon": -99.1362944,
+        "alt": 2240.4666666666653,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 171,
+      "filename": "frame_0171.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0171.jpg",
+      "timestamp_ms": 445333.33333332575,
+      "timestamp_str": "0:07:25.333000",
+      "gps": {
+        "lat": 19.337762599999998,
+        "lon": -99.13617953333333,
+        "alt": 2241.9333333333325,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 172,
+      "filename": "frame_0172.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0172.jpg",
+      "timestamp_ms": 447333.33333332563,
+      "timestamp_str": "0:07:27.333000",
+      "gps": {
+        "lat": 19.33773113333333,
+        "lon": -99.13606156666667,
+        "alt": 2242.9666666666676,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 173,
+      "filename": "frame_0173.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0173.jpg",
+      "timestamp_ms": 449333.3333333255,
+      "timestamp_str": "0:07:29.333000",
+      "gps": {
+        "lat": 19.337711066666667,
+        "lon": -99.13594666666667,
+        "alt": 2243.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 174,
+      "filename": "frame_0174.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0174.jpg",
+      "timestamp_ms": 451333.3333333254,
+      "timestamp_str": "0:07:31.333000",
+      "gps": {
+        "lat": 19.3376841,
+        "lon": -99.13583703333333,
+        "alt": 2243.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 175,
+      "filename": "frame_0175.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0175.jpg",
+      "timestamp_ms": 453333.3333333253,
+      "timestamp_str": "0:07:33.333000",
+      "gps": {
+        "lat": 19.3376545,
+        "lon": -99.13572293333334,
+        "alt": 2242.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 176,
+      "filename": "frame_0176.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0176.jpg",
+      "timestamp_ms": 455333.33333332516,
+      "timestamp_str": "0:07:35.333000",
+      "gps": {
+        "lat": 19.3376272,
+        "lon": -99.1356078,
+        "alt": 2243.0333333333324,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 177,
+      "filename": "frame_0177.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0177.jpg",
+      "timestamp_ms": 457333.33333332505,
+      "timestamp_str": "0:07:37.333000",
+      "gps": {
+        "lat": 19.337609666666665,
+        "lon": -99.13548973333333,
+        "alt": 2243.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 178,
+      "filename": "frame_0178.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0178.jpg",
+      "timestamp_ms": 459333.33333332493,
+      "timestamp_str": "0:07:39.333000",
+      "gps": {
+        "lat": 19.337598133333334,
+        "lon": -99.13539496666667,
+        "alt": 2243.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 179,
+      "filename": "frame_0179.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0179.jpg",
+      "timestamp_ms": 462333.33333332476,
+      "timestamp_str": "0:07:42.333000",
+      "gps": {
+        "lat": 19.337588099999998,
+        "lon": -99.13526446666667,
+        "alt": 2243.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 180,
+      "filename": "frame_0180.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0180.jpg",
+      "timestamp_ms": 464333.33333332464,
+      "timestamp_str": "0:07:44.333000",
+      "gps": {
+        "lat": 19.3375874,
+        "lon": -99.1351574,
+        "alt": 2243.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 181,
+      "filename": "frame_0181.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0181.jpg",
+      "timestamp_ms": 466333.3333333245,
+      "timestamp_str": "0:07:46.333000",
+      "gps": {
+        "lat": 19.337580166666665,
+        "lon": -99.13504929999999,
+        "alt": 2243.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 182,
+      "filename": "frame_0182.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0182.jpg",
+      "timestamp_ms": 468333.3333333244,
+      "timestamp_str": "0:07:48.333000",
+      "gps": {
+        "lat": 19.3375688,
+        "lon": -99.13493293333333,
+        "alt": 2243.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 183,
+      "filename": "frame_0183.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0183.jpg",
+      "timestamp_ms": 470333.3333333243,
+      "timestamp_str": "0:07:50.333000",
+      "gps": {
+        "lat": 19.33756603333333,
+        "lon": -99.1348187,
+        "alt": 2244.3,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 184,
+      "filename": "frame_0184.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0184.jpg",
+      "timestamp_ms": 473333.3333333241,
+      "timestamp_str": "0:07:53.333000",
+      "gps": {
+        "lat": 19.337571766666667,
+        "lon": -99.1346885,
+        "alt": 2244.1666666666674,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 185,
+      "filename": "frame_0185.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0185.jpg",
+      "timestamp_ms": 475333.333333324,
+      "timestamp_str": "0:07:55.333000",
+      "gps": {
+        "lat": 19.3375831,
+        "lon": -99.13458226666667,
+        "alt": 2243.2,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 186,
+      "filename": "frame_0186.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0186.jpg",
+      "timestamp_ms": 477333.3333333239,
+      "timestamp_str": "0:07:57.333000",
+      "gps": {
+        "lat": 19.33758913333333,
+        "lon": -99.13446160000001,
+        "alt": 2243.0,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 187,
+      "filename": "frame_0187.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0187.jpg",
+      "timestamp_ms": 479333.33333332377,
+      "timestamp_str": "0:07:59.333000",
+      "gps": {
+        "lat": 19.33759183333333,
+        "lon": -99.13433776666668,
+        "alt": 2242.5,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 188,
+      "filename": "frame_0188.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0188.jpg",
+      "timestamp_ms": 481333.33333332365,
+      "timestamp_str": "0:08:01.333000",
+      "gps": {
+        "lat": 19.33759356666667,
+        "lon": -99.13421446666668,
+        "alt": 2241.766666666668,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 189,
+      "filename": "frame_0189.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0189.jpg",
+      "timestamp_ms": 483333.33333332354,
+      "timestamp_str": "0:08:03.333000",
+      "gps": {
+        "lat": 19.3375933,
+        "lon": -99.1340788,
+        "alt": 2240.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 190,
+      "filename": "frame_0190.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0190.jpg",
+      "timestamp_ms": 486333.33333332336,
+      "timestamp_str": "0:08:06.333000",
+      "gps": {
+        "lat": 19.3375876,
+        "lon": -99.13396273333333,
+        "alt": 2240.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 191,
+      "filename": "frame_0191.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0191.jpg",
+      "timestamp_ms": 489333.3333333232,
+      "timestamp_str": "0:08:09.333000",
+      "gps": {
+        "lat": 19.3375664,
+        "lon": -99.13382103333333,
+        "alt": 2241.7,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 192,
+      "filename": "frame_0192.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0192.jpg",
+      "timestamp_ms": 491333.33333332307,
+      "timestamp_str": "0:08:11.333000",
+      "gps": {
+        "lat": 19.337552133333332,
+        "lon": -99.13370846666666,
+        "alt": 2241.4,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 193,
+      "filename": "frame_0193.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0193.jpg",
+      "timestamp_ms": 493333.33333332295,
+      "timestamp_str": "0:08:13.333000",
+      "gps": {
+        "lat": 19.337526466666667,
+        "lon": -99.13357976666667,
+        "alt": 2241.8,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 194,
+      "filename": "frame_0194.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0194.jpg",
+      "timestamp_ms": 495333.33333332284,
+      "timestamp_str": "0:08:15.333000",
+      "gps": {
+        "lat": 19.337498466666666,
+        "lon": -99.13345196666667,
+        "alt": 2241.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 195,
+      "filename": "frame_0195.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0195.jpg",
+      "timestamp_ms": 497333.3333333227,
+      "timestamp_str": "0:08:17.333000",
+      "gps": {
+        "lat": 19.337467666666665,
+        "lon": -99.13332106666667,
+        "alt": 2241.6,
+        "speed": 30.0
+      }
+    },
+    {
+      "index": 196,
+      "filename": "frame_0196.jpg",
+      "filepath": "real_output_10m\\frames\\frame_0196.jpg",
+      "timestamp_ms": 500333.33333332255,
+      "timestamp_str": "0:08:20.333000",
+      "gps": {
+        "lat": 19.33743773333333,
+        "lon": -99.13319666666666,
+        "alt": 2241.4,
+        "speed": 30.0
+      }
+    }
+  ],
+  "extraction_time": "2026-02-26T13:47:23.631235"
+}
