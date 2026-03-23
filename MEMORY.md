@@ -51,6 +51,17 @@
 - `analisis_ejidos/ejidos_Tampico_SanLuis.csv` + `.geojson`
 - `analisis_ejidos/ejidos_Veracruz_Tampico.csv` + `.geojson`
 - `REPORTE_ANALISIS_SOCIAL.md` - Reporte completo con consideraciones sociales
+- `localidades_osm.shp` - 875 localidades para TS, 617 para VT (OSM)
+- `PLAN_LEVANTAMIENTO_DRONE_LIDAR.md` - Plan completo de levantamiento
+- `*_flight_lines.shp` - Líneas de vuelo aproximadas para GIS
+- `*_flight_summary.csv` - Resumen por bloque (km, tiempo, baterías)
+- `ANALISIS_DEL_PROYECTO.docx` - Reporte Word por proyecto
+
+**Datos técnicos por proyecto:**
+| Proyecto | Longitud | Bloques | Tiempo estimado |
+|----------|----------|---------|-----------------|
+| Tampico-San Luis | ~435 km | 45 | ~15-20 días |
+| Veracruz-Tampico | ~520 km | 45 | ~15-20 días |
 
 **Próximos pasos:** Consultar RENAPO/RAN, contactar comunidades ejidales, permisos SEDENA/AFAC
 
