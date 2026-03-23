@@ -1,0 +1,50 @@
+
+# Instrucciones para descargar datos de Localidades INEGI
+
+## Método 1: Marco Geoestadístico Nacional
+
+1. Ir a: https://www.inegi.org.mx/geo/
+2. Buscar "Marco Geoestadístico" en el menú
+3. Seleccionar "Descarga de archivos shapefile"
+4. Elegir los estados de interés:
+   - 30: Tamaulipas
+   - 24: San Luis Potosí  
+   - 29: Veracruz
+5. Descargar archivo ZIP
+6. Extraer en la carpeta 'datos_inegi' de cada proyecto
+
+## Método 2: Localidades del DENUE (Directorio Estadístico Nacional de Unidades Económicas)
+
+1. Ir a: https://www.inegi.org.mx/app/mapa/denue/
+2. Seleccionar estado y municipios
+3. Exportar como CSV o JSON
+
+## Método 3: Servicio de Mapas (WMS/WFS)
+
+URL del servicio: https://www.inegi.org.mx/app/mapa/wms?
+
+Capas disponibles:
+- localhost:8080/geoserver/inegi/wms?service=WMS&version=1.1.0&request=GetMap&layers=inegi:localidades
+
+## Archivos requeridos para este proyecto
+
+Para el análisis de impacto social de vuelo de dron, necesita:
+
+1. **Localidades** (puntos con coordenadas y nombre)
+   - Archivo: 00_LOC.shp
+   - Contiene: NOMBRE, AMBITO (Urbano/Rural), POBLACION
+
+2. **AGEB urbanas** (polígonos de áreas urbanas)
+   - Archivo: 00_AGEB_URB.shp
+   - Contiene: CVE_AGEB,POB_TOTAL
+
+3. **Manzanas** (en zonas urbanas)
+   - Archivo: 00_MANZ.shp
+   - Para análisis detallado de concentración de población
+
+## Alternativa: Generar localidades desde el shapefile de ejidos
+
+Los ejidos ya contienen información de centros de población (X, Y en formato DMS).
+Se puede usar la columna 'NOM_NA' como referencia de nombres de comunidades.
+
+Ver archivo: analisis_ejidos/ejidos_*.csv
