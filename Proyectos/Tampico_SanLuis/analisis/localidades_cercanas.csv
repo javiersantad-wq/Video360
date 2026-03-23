@@ -1,0 +1,876 @@
+osm_id,name,place,population,municipality,state,country,dist_to_corridor_km
+269905839,San Luis Potosí,city,845941,,,,3.2274986387459887
+273584290,Tampico,city,297562,,,,1.540296877533479
+292474264,Ciudad Valles,city,136351,,,,2.394611161507057
+296378035,Tamuín,town,16318,,,,0.3717869438713362
+296381616,Ébano,town,24296,,,,0.046615016811445704
+299677634,Rioverde,town,53128,,,,0.9724018618706989
+301518460,Rayón,town,5928,,,,1.0789408467822004
+472257789,Benito Juárez,village,15472,,,,4.026146405079893
+472257805,Anáhuac,village,14391,,,,3.0870469576275488
+472258075,Moralillo,suburb,10191,,,,0.3259693520721465
+472258195,Hidalgo,village,7676,,,,4.029271799539556
+472258864,Tamos,village,,,,,0.40915054075922236
+472259807,Villa Cacalilao (Dos),village,,,,,0.08267880464439452
+472260203,Antonio J. Bermúdez,village,,,,,0.25284455950925694
+473373559,Confederación Nacional Campesina (Canoas),village,,,,,0.5238457412984716
+473373752,Reventadero,hamlet,,,,,4.013194083673852
+473374097,El Crucero (Estación Pedernales),hamlet,,,,,4.216532296779548
+473374677,Calentadores,village,,,,,0.10624993776581555
+473374859,Las Ánimas,hamlet,,,,,0.22710815446640273
+473375024,Emiliano Zapata,hamlet,,,,,0.864081952843783
+473376256,Colonia Petrolera Lindavista,hamlet,,,,,4.472644591604996
+473379336,El Sendero,hamlet,,,,,3.2289597980347264
+473379861,La Palma,hamlet,,,,,1.3510539017060936
+473380271,Periquillo,hamlet,,,,,3.905829660888273
+473381653,La Cortadura,hamlet,,,,,0.17298207075661223
+473381924,Ampliación Ejido Primero de Mayo,hamlet,,,,,4.868607874559738
+473383393,Calentadores Dos,hamlet,,,,,0.0956408851382448
+473384617,Medio Camino (Colonia Medio Camino),hamlet,,,,,4.333113292714041
+473384865,Vuelta del Barco,hamlet,,,,,3.299781275561909
+473385120,María Quinta de las Nieves,hamlet,,,,,0.8179367898478449
+473386088,Tancoco,hamlet,,,,,3.926191152199218
+473386497,Ejido Vicente Guerrero (Seis Internacional),hamlet,,,,,1.715349853175341
+473386554,Benito Juárez,hamlet,,,,,3.68524777737981
+473386765,Palma Sola,hamlet,,,,,1.2207446449462709
+679005801,Soledad de Graciano Sánchez,town,310192,,,,3.8280863404376295
+740829737,Tamasopo,town,4326,,,,3.453910073293574
+2683905613,El Aserradero,hamlet,,,,,2.3944044216076996
+2683905628,Santa Fe,hamlet,,,,,1.880588768378169
+2818858284,Ciudad Madero,city,205933,,,,3.6610588487509905
+3024086235,San Jose de Gallinas,hamlet,1000,,,,0.06215298253185876
+3046046963,Colonia América,neighbourhood,,,,,1.785419441622358
+3046046965,Fraccionamiento Avance,neighbourhood,,,,,1.8066016845926967
+3046046967,Colonia Moctezuma,neighbourhood,,,,,2.6192279811274517
+3046046968,Colonia Cuauhtémoc,neighbourhood,,,,,1.4925270775107264
+3046046971,Fraccionamiento INFONAVIT I,neighbourhood,,,,,2.0484192599098257
+3046046972,Colonia Juárez,neighbourhood,,,,,0.6595196750502083
+3046046973,Colonia Las Lomas,neighbourhood,,,,,1.727358428240182
+3046046976,Colonia Obrera,neighbourhood,,,,,2.1806369386082647
+3046046977,Colonia Rotarios,neighbourhood,,,,,1.2435171503454872
+3046046978,Colonia Tampico,neighbourhood,,,,,1.0974778132481164
+3046046979,Colonia Tetuán,neighbourhood,,,,,0.8779304661328267
+3046046980,Colonia Tipzen,neighbourhood,,,,,1.7318933736418718
+3046278555,Colonia Estación,neighbourhood,,,,,1.5886595269973771
+3046278556,Colonia La Pimienta,neighbourhood,,,,,3.6508740936159922
+3046424337,Colonia Altavista,neighbourhood,,,,,2.8770659711126005
+3046424338,Colonia Del Campo,neighbourhood,,,,,1.8601322016842747
+3046424339,Colonia Doracely,neighbourhood,,,,,2.775935169622866
+3046424340,Fraccionamiento Del Carmen,neighbourhood,,,,,2.910995924700415
+3046424341,Fraccionamiento FOVISSSTE,neighbourhood,,,,,1.902643186299785
+3046424342,Colonia Guadalupe,neighbourhood,,,,,2.439748121682561
+3046424343,Colonia La Florida,neighbourhood,,,,,1.774509382995222
+3046424344,Colonia Loma Bonita,neighbourhood,,,,,2.535827703199475
+3046424345,Colonia Márquez,neighbourhood,,,,,2.7561119429732863
+3046566052,Fraccionamiento Lomas de San José,neighbourhood,,,,,0.39401064608105724
+3046566053,Colonia San José,neighbourhood,,,,,0.39868473947509436
+3046566054,Colonia San Rafael,neighbourhood,,,,,1.7422344451384284
+3046566055,Colonia San Ángel,neighbourhood,,,,,1.153317173238697
+3046566056,Colonia Tantocob,neighbourhood,,,,,1.488378218321965
+3048102226,Fraccionamiento CECYT,neighbourhood,,,,,0.8406657998199849
+3048102227,Fraccionamiento Jardines del Campestre,neighbourhood,,,,,0.6107123711495407
+3048102228,Fraccionamiento Las Águilas,neighbourhood,,,,,0.7745572455722055
+3048102229,Colonia Mirador,neighbourhood,,,,,2.114970034185688
+3048102230,Colonia Rafael Curiel,neighbourhood,,,,,1.2813700212141839
+3048102231,Colonia Real Campestre,neighbourhood,,,,,0.765768806023553
+3048437400,Colonia Anfer,neighbourhood,,,,,2.689456598230504
+3048437401,Colonia Antonio Esper,neighbourhood,,,,,2.3440311890748786
+3048437402,Colonia Cerillera,neighbourhood,,,,,0.8783042989049794
+3048437403,Colonia El Porvenir,neighbourhood,,,,,2.693470089246162
+3048437404,Colonia Hidalgo,neighbourhood,,,,,1.169584685120792
+3048437405,Colonia Lomas Oriente,neighbourhood,,,,,1.115513737090984
+3048437406,Colonia Lomas Poniente,neighbourhood,,,,,1.1879771727466129
+3048437407,Colonia Lomas del Yuejat,neighbourhood,,,,,0.4502521542469318
+3048437408,Colonia Nelly,neighbourhood,,,,,2.537407058401761
+3048437409,Fraccionamiento Rosas del Tepeyac,neighbourhood,,,,,2.391890984283431
+3048437410,Fraccionamiento San Luis,neighbourhood,,,,,0.5212472709950952
+3048437411,Fraccionamiento Valle Alto,neighbourhood,,,,,3.052866488547069
+3048437412,Colonia Villa Real de Santiago,neighbourhood,,,,,2.457101875983922
+3048440551,Colonia 18 de marzo,neighbourhood,,,,,3.626940851062705
+3048451824,Colonia Campo Colonial,neighbourhood,,,,,3.9924251854930755
+3048451825,Fraccionamiento El Consuelo,neighbourhood,,,,,4.6324558857536795
+3048451826,Fraccionamiento INFONAVIT II,neighbourhood,,,,,4.468933470186266
+3048451827,Fraccionamiento La Diana,neighbourhood,,,,,2.059266123640053
+3048451828,Fraccionamiento La Estrella,neighbourhood,,,,,3.953984347527229
+3048451829,Colonia Lázaro Cárdenas,neighbourhood,,,,,3.9632437000461294
+3048451832,Colonia Solidaridad,neighbourhood,,,,,4.985701109930055
+3048451833,Fraccionamiento Praderas del Río,neighbourhood,,,,,1.7854970851772836
+3048451835,Colonia Vista Hermosa,neighbourhood,,,,,3.562546927961588
+3048451913,Colonia 20 de noviembre,neighbourhood,,,,,3.876904606890737
+3048479934,Colonia El Gavilán,neighbourhood,,,,,0.8984704549101725
+3048479935,Colonia Gregorio Osuna,neighbourhood,,,,,0.5546000710538206
+3048479936,Fraccionamiento José Ma. Morelos y Pavón,neighbourhood,,,,,1.4079119901980408
+3048479937,Fraccionamiento Las Huastecas,neighbourhood,,,,,1.3563229545895863
+3048479938,Fraccionamiento Lomas de Santiago,neighbourhood,,,,,1.0151742102675898
+3057913021,Colonia América,neighbourhood,,,,,2.322833854454194
+3057913022,Fraccionamiento Buenos Aires,neighbourhood,,,,,4.630038181251972
+3057913023,Colonia El 21,neighbourhood,,,,,4.4801129220708225
+3057913025,Colonia Emiliano Zapata,neighbourhood,,,,,3.082747708647543
+3057913026,Conjunto Habitacional Ignacio García Téllez,neighbourhood,,,,,2.5488659673298244
+3057913027,Colonia Mujeres en Solidaridad,neighbourhood,,,,,2.833786637243139
+3057913028,Ejido Plan de Ayala,neighbourhood,,,,,4.640129831261307
+3057913029,Colonia Santa Lucía,neighbourhood,,,,,2.467151788045033
+3057913030,Ejido Tanculpaya,neighbourhood,,,,,4.124025662047104
+3057913031,Colonia Tecnológico,neighbourhood,,,,,3.170980645884518
+3057913102,Fraccionamiento Del Sol,neighbourhood,,,,,4.352952958891281
+3057913103,Colonia 12 de julio,neighbourhood,,,,,3.4371943001072602
+3059872755,Fraccionamiento Bicentenario,neighbourhood,,,,,1.1484872160582305
+3059872756,Colonia Militar,neighbourhood,,,,,0.08849061876433838
+3059872757,Colonia Vergel,neighbourhood,,,,,1.551288957089399
+3060397785,Fraccionamiento Bugambilias,neighbourhood,,,,,4.872584593760626
+3067924730,Colonia Palo de Rosa,neighbourhood,,,,,1.3561378401549928
+3073809209,Colonia Plan de Ayala,neighbourhood,,,,,1.9523322627523603
+3073809210,Colonia Las Brisas,neighbourhood,,,,,3.288085541263137
+3073809211,Colonia Los Filtros,neighbourhood,,,,,1.5251624799749024
+3073830969,Colonia Bonifacio Salinas,neighbourhood,,,,,2.200260102974302
+3073830970,Colonia El Porvenir,neighbourhood,,,,,2.3197496538065874
+3073830971,Colonia Margarita de Gortari,neighbourhood,,,,,0.8022326093759642
+3073830972,Colonia Nelly Zulaimán,neighbourhood,,,,,2.3658889434632093
+3073830973,Fraccionamiento Real de Villas,neighbourhood,,,,,2.4414192060374944
+3084018380,Ojo de Agua,hamlet,,,,,3.2488065199260956
+3099581065,Colonia Ampliación Las Brisas,neighbourhood,,,,,0.5108866348599348
+3099581066,Colonia Centro,neighbourhood,,,,,0.049108813929649164
+3099581067,Colonia Del Bosque,neighbourhood,,,,,2.4396283053220333
+3099581068,Colonia El Campo,neighbourhood,,,,,0.12103683178386004
+3099581069,Colonia Hidalgo,neighbourhood,,,,,0.38510298280152183
+3099581070,Fraccionamiento INFONAVIT,neighbourhood,,,,,0.6132475178614247
+3099581071,Colonia Juárez,neighbourhood,,,,,0.9193642285448422
+3099581072,Colonia La Esperanza,neighbourhood,,,,,1.9181565494119281
+3099581073,Colonia La Tomatera,neighbourhood,,,,,0.2710990944501055
+3099581074,Colonia Las Brisas,neighbourhood,,,,,0.09587661248045734
+3099581075,Colonia Las Gaviotas,neighbourhood,,,,,1.7418789647677457
+3099581076,Colonia Las Norias,neighbourhood,,,,,1.1227194651132655
+3099581077,Colonia Lindavista,neighbourhood,,,,,0.35354221232085103
+3099581078,Fraccionamiento Los Pericos,neighbourhood,,,,,0.4776842589143736
+3099581079,Colonia Luis Donaldo Colosio,neighbourhood,,,,,2.270368004735184
+3099581080,Colonia Magisterial,neighbourhood,,,,,0.815945631490098
+3099581081,Colonia Media Luna,neighbourhood,,,,,0.6439976996533424
+3099581082,Colonia Mirasol,neighbourhood,,,,,0.008161540003879444
+3099581083,Colonia Morelos,neighbourhood,,,,,0.0851323342523518
+3099581084,Fraccionamiento Nuevo Tamuín,neighbourhood,,,,,1.6523201430587682
+3099581085,Colonia Pueblo Nuevo,neighbourhood,,,,,1.5543210123470979
+3099581086,Colonia Ricardo Flores Magón,neighbourhood,,,,,1.1026809853807005
+3099581087,Colonia Salvador Nava Martínez,neighbourhood,,,,,0.20911143530354287
+3099581088,Fraccionamiento Valle Alto,neighbourhood,,,,,1.9151450816810802
+3099581089,Colonia Vista Alegre,neighbourhood,,,,,2.0790215557999163
+3099581090,Colonia Víctor Manuel Santos,neighbourhood,,,,,0.12599542004703224
+3375716004,La Tapona,village,1200,,,,2.475806464837929
+3438354621,San Jose de Las Flores,hamlet,1000,,,,4.06210564173181
+3447907999,Labor Vieja,hamlet,1000,,,,1.0228126366736172
+3462298665,Cañada Grande,hamlet,,,,,4.986129198070162
+3462522928,Milpitas,hamlet,150,,,,4.980823219340465
+3462544372,Tanque de San Juan,hamlet,,,,,2.891245467768196
+3462544793,San José de Canoas,hamlet,,,,,3.1903313536458926
+3472527272,Solano,hamlet,600,,,,2.9252765392213047
+3472529198,La Noria,village,1000,,,,3.023782733566945
+3472531052,La Reforma,hamlet,900,,,,2.644341120089886
+3472535693,Ojo de Agua de Solano,hamlet,1000,,,,2.5426702777960277
+3485453488,Santa Catarina,town,,,,,0.25264591275829923
+3501579690,La Escondida,hamlet,100,,,,2.825573298227356
+3502040530,San Martin,village,1000,,,,4.441522124829774
+3502041541,Tecomates,hamlet,500,,,,2.37558556266013
+3502043302,San Pablo,hamlet,200,,,,2.80370353272791
+3502044880,Las Adjuntas,hamlet,1000,,,,1.258367669450467
+3502045722,Ciudad Fernández,town,32006,,,,1.1794996042479875
+3502054895,Cieneguilla,village,1000,,,,3.362411047583458
+3502055002,Chupaderos,hamlet,200,,,,2.4890226666799338
+3511362162,La Reformita,hamlet,200,,,,2.0526374084213677
+3511376848,San Isidro,hamlet,300,,,,0.5243679392349702
+3518337398,San Jose del Terremoto,hamlet,950,,,,0.18906292131781
+3627962011,Rancho Nuevo,hamlet,,,,,1.9169618133332433
+3627962018,Tabla de la Cruz,neighbourhood,,,,,0.06248624579712503
+3705049085,El Alamo,hamlet,,,,,2.7917717967412607
+4078589307,Ejido Coyotes,hamlet,,,,,4.60343959965089
+4079371486,La Pitaya,hamlet,,,,,0.0676021551498665
+4313659741,Fraccionamiento Fibracel,neighbourhood,,,,,1.039412263270351
+4313659742,Colonia Francisco Villa,neighbourhood,,,,,2.2368061604350062
+4313659744,Fraccionamiento La Alhajita,neighbourhood,,,,,1.2502730622903
+4313659745,Colonia Mary Tere,neighbourhood,,,,,3.961151534488411
+4313659746,Colonia Misión de San Ángel,neighbourhood,,,,,0.05307770208988951
+4313659747,Colonia Morelos y Pavón,neighbourhood,,,,,2.5675977157426764
+4313659748,Colonia Palmasola,neighbourhood,,,,,2.465781596680287
+4313659749,Colonia Rodríguez,neighbourhood,,,,,0.6704908462754016
+4313659750,Colonia Santa María,neighbourhood,,,,,2.0848842078950627
+4313659751,Colonia Santa Rosa,neighbourhood,,,,,2.0779704886983925
+4313659752,Colonia Valle de Oriente,neighbourhood,,,,,2.484034978663909
+4313659753,Colonia Olegario Vizcarra,neighbourhood,,,,,0.3562367195752343
+4562328674,Valle de los Fantasmas,hamlet,136,,,,0.17718515258956938
+5379103576,El Carpintero,hamlet,,,,,1.2272294637957564
+5621789197,San Francisco,hamlet,375,,,,0.18776749925978242
+5621789202,Las Cajas,hamlet,,,,,0.13077598725796205
+5621789210,Las Rusias,hamlet,65,,,,0.11036966515204417
+5621789211,Pozo,hamlet,,,,,1.0636124535805027
+5987517167,Potrero del Carnero,hamlet,,,,,0.3506910274431648
+5993844197,Abras del Corozo,hamlet,,,,,2.384965041386955
+6075283545,El Capulín,hamlet,28,,,,3.781192317113403
+6075283547,Los Llanitos,hamlet,31,,,,1.6911695858294085
+6075283549,Kilómetro 58,hamlet,200,,,,3.4302706272290893
+6075283550,Álvarez,hamlet,41,,,,2.287992795930086
+6150596867,Arroyo Hondo,hamlet,,,,,3.7344880365227375
+6150598563,Rincón de los Alicoches,hamlet,,,,,0.7187446673893745
+6150598564,La Parada del Zarcido,hamlet,,,,,1.937845361079709
+6150599539,Puerto de la Descubridora,hamlet,103,,,,2.8726881841764116
+6150599541,El Durazno,hamlet,20,,,,3.1896988814774176
+6150599925,Tinajillas,hamlet,,,,,1.3721443026774658
+6150600428,Las Trojes,hamlet,,,,,0.03224436126922626
+6150600432,Cerro los Caballos,hamlet,,,,,1.4614005583932699
+6150600434,Las Aguilillas,hamlet,34,,,,0.6162523667580899
+6150600874,La Calera,hamlet,,,,,4.971358687342118
+6186345843,Altamira,hamlet,61,,,,0.10868620811309578
+6186345844,La Cardona,hamlet,69,,,,2.828173830857193
+6186345848,Los Matías,hamlet,81,,,,1.3171365627241087
+6186345849,La Sierra,hamlet,4,,,,0.07303959801305938
+6186345850,San Cayetano,hamlet,75,,,,3.907947797397331
+6186345853,Piedra Agujereada,hamlet,1,,,,3.593780175671606
+6186345859,Mezquitalillo,hamlet,179,,,,3.7254629131933594
+6186345860,Agua Blanca,hamlet,63,,,,0.477832392591046
+6223284355,Joyas del Aguaje,neighbourhood,,,,,4.932255155889508
+6223284361,El Ranchito,neighbourhood,,,,,4.657747456187687
+6223284376,Palma China,neighbourhood,,,,,4.58385674791636
+6223515348,Casas Blancas,hamlet,,,,,1.7469079837785
+6223515349,Independencia,hamlet,,,,,2.3021310283318805
+6223515353,Corral de Palmas,hamlet,,,,,0.6431755846393765
+6223515355,Ranchito de los Rivera,hamlet,,,,,1.2262083792548375
+6223515356,Trituradora de Mármol,locality,,,,,1.1613744211076031
+6223515372,Rincón de Santa Eduviges,hamlet,,,,,2.4925626924726254
+6223515381,La Puerta del Arbolito,locality,,,,,2.4923659830237237
+6223518885,San José de Gómez,hamlet,,,,,2.234401341905832
+6223518894,Derramadero,hamlet,,,,,2.3348637034885127
+6223518899,Las Trojes,hamlet,,,,,3.758454333475738
+6223518918,Plan de San José,hamlet,,,,,2.227726440928603
+6223518922,El Llano de Santa Isabel,hamlet,,,,,0.4464961287769989
+6223518923,Santo Domingo,hamlet,,,,,0.49636372108009186
+6223518933,La Estancia,hamlet,,,,,2.1732434245518037
+6223518937,Xoconoxtle,hamlet,,,,,0.08910271463225913
+6223518938,Paso Colorado,hamlet,,,,,4.861167670642341
+6223518943,Los Terreros,hamlet,,,,,3.4926075963779626
+6223518948,Emiliano Zapata (El Tepozán),hamlet,,,,,0.9964107152557757
+6239084348,Feria Nacional Potosina,locality,,,,,3.963499052674358
+6301702325,Pujal Coy,town,3346,,,,2.3153301372864794
+6306665051,Tortugas,village,413,,,,2.6754955274952685
+6310674554,El Refugio,village,,,,,1.2716676737502715
+6897445867,Copalitos,hamlet,,,,,3.828264672547581
+6897445868,El Piruche,hamlet,,,,,1.5182366093092703
+6897445869,Vicente Guerrero,hamlet,,,,,0.25840191400450135
+7332717730,Santa Anita,hamlet,,,,,0.23861579948217793
+7332717731,Luis Gambino Heredia,hamlet,,,,,0.11362238828285037
+7474522654,Francisco Villa,hamlet,,,,,0.05864083480586057
+7474605057,Estación Azúa,hamlet,,,,,3.8794937102421816
+7475764241,Casas Blancas,hamlet,,,,,0.06906558874990297
+7477214954,El Centinela,hamlet,,,,,0.1777901800085112
+7477284981,El Palmar,hamlet,,,,,3.6664267636721917
+7477284982,La Rosita,hamlet,,,,,0.03930652596029718
+7479860055,Antiguo Tamuín,hamlet,,,,,1.2835778170001608
+7625821408,Camarones,hamlet,,,,,4.264691388774967
+7625921559,El Sauz,hamlet,,,,,0.05689682205794946
+7625926707,Los Remedios,hamlet,,,,,4.467628190389032
+7632981233,El Abra,hamlet,,,,,0.03926225201665135
+7632993859,San Felipe,hamlet,,,,,0.03571484661897754
+7633770489,La Fortaleza,hamlet,,,,,0.15447866678041555
+7633770539,El Aserradero,hamlet,,,,,3.3321393033056452
+7636178545,Ejido San Mateo,hamlet,,,,,4.9074256626516926
+7640516667,El Pantano,hamlet,,,,,0.06050650122081045
+7640516694,Zocohuite,hamlet,,,,,1.5444937815143547
+7643912481,Los Otates,hamlet,,,,,3.2044328332439473
+7649776886,Puerto de Guaymas,hamlet,,,,,2.970905958826213
+7649814770,San Dieguito,hamlet,,,,,4.975232313776961
+7650832297,Campamento Alto,hamlet,,,,,0.8991478679600442
+7650832786,Cabezas,hamlet,,,,,4.51594149684677
+7658556228,El Jabalí,hamlet,,,,,2.1684949508249938
+7658556358,Rancho Nuevo,hamlet,,,,,0.058331849862268664
+7658764058,El Clarín,hamlet,,,,,0.043829096788115446
+7660718331,San Jerónimo,hamlet,,,,,4.420262756253878
+7660718333,La Vieja,hamlet,,,,,3.1170601358698082
+7660718362,La Palmita,hamlet,,,,,0.07511130236639726
+7660718370,La Mohonera,hamlet,,,,,0.0509311185755795
+7660718642,Cuesta Blanca,hamlet,,,,,2.205058478164269
+7660718643,Puerto Verde,hamlet,,,,,0.09705489910585095
+7660718776,El Sabinito,hamlet,,,,,1.9566942828085523
+7674366008,La Nueva Reforma,hamlet,,,,,4.69100943864992
+7674366009,La Palma,hamlet,,,,,4.502858518997066
+7674583886,Tierras Coloradas,hamlet,,,,,1.1089048952804046
+7677172514,Entronque Canoas,hamlet,,,,,0.08476922410269926
+7677203915,Puertecitos,hamlet,,,,,4.30606546789538
+7677204172,Laguna del Saucillo,hamlet,,,,,0.5776892552511512
+7677346066,Tortugas,hamlet,,,,,2.6593964506536323
+7677346143,Nogales,hamlet,,,,,0.21277563623459006
+7681836550,San Francisco,hamlet,,,,,3.87555671907192
+7702858100,La Luz,hamlet,,,,,3.911907001137221
+7702858150,San Cristóbal,hamlet,,,,,3.178246659483204
+7702880453,Aguacatillos,hamlet,,,,,1.6345079289370468
+7702880577,Álvaro Obregón,hamlet,,,,,3.384707737872337
+7706172756,Cerrito de la Cruz,village,,,,,1.3357588837399947
+7706172757,La Carrera del Diablo,hamlet,,,,,0.15918240957011875
+7706172835,La Providencia,hamlet,,,,,0.3054823098341947
+7708239673,Sanguijuela,hamlet,,,,,2.2338917029988634
+7708787350,Redención Nacional,hamlet,,,,,0.6913195756293996
+7708787510,Ildefonso Turrubiartes,hamlet,,,,,3.57307269445702
+7708801328,Miguel Hidalgo,hamlet,,,,,1.4874396265056535
+7708801337,La Laborcilla,hamlet,,,,,4.816504094170136
+7710548946,La Virgen,hamlet,,,,,1.9730837818783176
+7710634706,San Marcos,hamlet,,,,,2.388229183389713
+7710682053,El Carmen,neighbourhood,,,,,1.6078163015573788
+7710994273,La Cruz del Mezquite,hamlet,,,,,2.109925141465432
+7711015926,Santa Lourdes,hamlet,,,,,2.5343646428800066
+7711015927,María Asunción del Barrio de los Ángeles,neighbourhood,,,,,3.6385398644030342
+7728383654,Cañada Verde,hamlet,,,,,0.05353911417506044
+7728396864,Mojarras de Arriba,hamlet,,,,,0.29923498574606705
+7728426352,El Sermón,hamlet,,,,,4.62975636627264
+7738519664,Puestecitos,hamlet,,,,,2.3319433810838257
+7741125363,El Carrizal,hamlet,,,,,0.28240169903968193
+7741194135,El Charco,hamlet,,,,,0.06285178355239769
+7741194136,Agua Zarca,hamlet,,,,,0.10043474671762674
+7744400314,San Martín de Abajo,hamlet,,,,,3.2674104549258733
+7744409135,La Ventila,hamlet,,,,,4.442689685330386
+7744497291,Morillos,hamlet,,,,,4.900253241742739
+7744497325,Paso de San Antonio,hamlet,,,,,0.20156043837708407
+7744497389,Ojo de Agua de San Juan,hamlet,,,,,1.985210626511962
+7750442575,Último Santuario,hamlet,,,,,0.29995470357817633
+7759277778,Villa del Real,neighbourhood,,,,,0.35296666665983983
+7759277913,Divisadero,hamlet,,,,,4.615131200928201
+7759278038,Panalillo,hamlet,,,,,2.2464940189718905
+7800605552,Cerro Gordo,hamlet,,,,,4.994393890025147
+7804726622,La Palma,neighbourhood,,,,,4.302400770892013
+7804726623,Ejido Soledad,hamlet,,,,,2.997244578513858
+7804726624,Planta del Carmen,neighbourhood,,,,,2.4218083853598062
+7804726625,Real del Potosí,neighbourhood,,,,,2.166284981764309
+7804726636,Los Gómez,village,,,,,0.6752703466339073
+7805119927,Bosques La Florida,neighbourhood,,,,,1.0694066457518638
+7805145396,Granjas de la Florida,neighbourhood,132,,,,1.9677007090041827
+7805145571,San Nicolás de Jassos,village,,,,,0.43004729290467897
+7805183981,Laguna de Santa Rita,village,,,,,2.280631048614555
+7832544879,Residencial Vittanova,neighbourhood,,,,,2.887543938483077
+7861310578,Calderón,hamlet,,,,,4.112962404275443
+7861314399,Portezuelo,village,,,,,4.372553959466593
+7880276385,Fraccionamiento Flores del Aguaje,neighbourhood,,,,,3.1612190091452743
+7891555215,Industrias Químicas de México,locality,,,,,1.029030425349168
+7907030616,Fraccionamiento Puente Sol,neighbourhood,,,,,3.3459762226477023
+8112808286,Zona Centro,neighbourhood,,,,,1.3984332641954755
+8112828661,Colonia Bellavista,neighbourhood,,,,,1.0647696057124194
+8122021120,Colonia Mendez,neighbourhood,,,,,2.0326277905752157
+8122021121,Fraccionamiento Lomas del Mirador,neighbourhood,,,,,2.110789293954036
+9051544210,Uno Dicha,hamlet,,,,,1.633126135541811
+9051646475,Estación Cuatro Sinclair,locality,,,,,3.0260040281576597
+9054220480,La Ladrillera,hamlet,,,,,3.62951999603713
+9054220482,Tanchán,hamlet,,,,,2.934773263979318
+9054220488,El Caracol,hamlet,,,,,2.3275494249037743
+9054635301,Ejido Tancoco,hamlet,,,,,0.22393184789875364
+9054635303,El Porvenir,hamlet,,,,,2.9764176016191732
+9054658516,Sinclair,locality,,,,,1.7221710179554235
+9054678639,Estación Tres Águila,locality,,,,,2.052839534687769
+9139092573,Fraccionamiento Las Delicias,neighbourhood,,,,,0.4444758275476915
+9140778705,Fraccionamiento Misión de San Miguel,neighbourhood,,,,,0.3310561192429713
+9140778706,Ejido La Raya,hamlet,,,,,1.215261999910787
+9140778708,Ejido Tampaya,neighbourhood,,,,,0.5553675625571527
+9140778709,Colonia Troncones,neighbourhood,,,,,4.376968933320567
+9140778710,El Verde,hamlet,,,,,4.611265621450292
+9140778713,Colonia Troncones y la Corriente,neighbourhood,,,,,4.80723459003311
+9140895917,Colonia Magisterial,neighbourhood,,,,,3.5734275136198517
+9140895918,Ejido León García,hamlet,,,,,4.586334723518212
+9856945330,Fraccionamiento Villas del Sol,neighbourhood,,,,,1.2250223444704567
+9856945378,Fraccionamiento Hacienda de los Morales,neighbourhood,,,,,0.4134637884039364
+9856945410,Fraccionamiento San Rafael,neighbourhood,,,,,0.5993856908144066
+9856945566,Fraccionamiento Valle del Cactus,neighbourhood,,,,,1.0676954250597304
+9856945581,Fraccionamiento Industrial San Luis,neighbourhood,,,,,3.8505337319194477
+9856945590,Fraccionamiento Quintas de La Hacienda,neighbourhood,,,,,0.11834663555345623
+9910617659,Fraccionamiento La Loma,neighbourhood,,,,,2.179353749213849
+9910617677,Colonia Potosí Río Verde,neighbourhood,,,,,2.7629310645655734
+9910617681,Colonia Santa Mónica,neighbourhood,,,,,0.7327089034964761
+10012345274,Fraccionamiento Alborada,neighbourhood,,,,,0.3691249531022651
+10117527041,Colonia Los Ángeles,neighbourhood,,,,,3.545818576388377
+10117527043,Fraccionamiento Santa Fe,neighbourhood,,,,,0.14108570100183795
+10117527045,Colonia Satélite Francisco I. Madero II,neighbourhood,,,,,2.941628352347239
+10117527049,Colonia Campesina Norte,neighbourhood,,,,,4.613596152140453
+10117527050,Colonia Privada Hacienda Cocoyoc,neighbourhood,,,,,0.14044642326649381
+10117527053,Colonia Privada de San Lorenzo,neighbourhood,,,,,4.13641124931538
+10117527056,Colonia Jardines de Oriente,neighbourhood,,,,,0.3358882105278592
+10117527057,Fraccionamiento La Libertad,neighbourhood,,,,,1.2802669417858987
+10117527058,Fraccionamiento Altamira,neighbourhood,,,,,3.9955490489212457
+10117527059,Fraccionamiento Cielo Claro Las Mercedes,neighbourhood,,,,,3.2255419180830502
+10117527060,Barrio Horizontal,neighbourhood,,,,,2.2554661394998825
+10117527064,Colonia El Lavadero,neighbourhood,,,,,0.5910045871987983
+10117527065,Condominios Santuario,neighbourhood,,,,,1.625182797124856
+10117527066,Colonia La Libertad 2a. Sección,neighbourhood,,,,,2.693173343103241
+10117527067,Fraccionamiento Nuevo Paseo,neighbourhood,,,,,2.163800137618778
+10117527068,Fraccionamiento Bella Vista de Dalias,neighbourhood,,,,,2.030001872960598
+10117527069,Fraccionamiento La Apostólica,neighbourhood,,,,,3.9911818636969305
+10117527072,Colonia Providencia,neighbourhood,,,,,1.7302755848375093
+10117527073,Colonia Prados de San Vicente 3a. Sección,neighbourhood,,,,,2.4333952106409296
+10117527074,Colonia Xicoténcatl,neighbourhood,,,,,3.4163333887160214
+10117527075,Colonia Prados Satélite 1a. Sección,neighbourhood,,,,,3.61609440641004
+10117527078,Residencial Las Flores,neighbourhood,,,,,4.255765019526089
+10117527079,Colonia Ricardo Flores Magón,neighbourhood,,,,,3.18652173222309
+10117527080,Colonia Los Hornos,neighbourhood,,,,,1.6763310854705409
+10117527081,Colonia Ferrocarrilera,neighbourhood,,,,,2.4485892424854594
+10117527082,Colonia Panteón Españita,neighbourhood,,,,,2.3509951324882965
+10117527085,Colonia Privada Agaves IV,neighbourhood,,,,,1.836647505881481
+10117527087,Colonia Nuevo Foresta,neighbourhood,,,,,0.9771185193606864
+10117527088,Colonia El Paseo 5a. Sección,neighbourhood,,,,,1.5751150575245485
+10117527089,Condominio Florencia,neighbourhood,,,,,0.0551735854055394
+10117527092,Colonia María Laura,neighbourhood,,,,,3.7968427612718383
+10117527094,Fraccionamiento Valle de Dalias,neighbourhood,,,,,1.8928907434000937
+10117527095,Fraccionamiento Colonial Huerta Real,neighbourhood,,,,,4.917629613010699
+10117527096,Colonia Estrella de Oriente,neighbourhood,,,,,1.4613015188577216
+10117527099,Colonia Hogares Populares Pavón,neighbourhood,,,,,2.7203208412691917
+10117527101,Fraccionamiento Oriental,neighbourhood,,,,,2.7838853323561374
+10117527103,Fraccionamiento Del Llano,neighbourhood,,,,,1.5166680455402823
+10117527106,Colonia Cerrada de las Huertas,neighbourhood,,,,,2.685166396187951
+10117527108,Colonia 1o. de Mayo,neighbourhood,,,,,0.5948889438440924
+10117527110,Fraccionamiento Cumbres de las Ceibas,neighbourhood,,,,,3.9987315749971084
+10117527114,Fraccionamiento Rinconada del Parque,neighbourhood,,,,,4.905969251686407
+10117527115,Colonia Rincón de San Sebastián,neighbourhood,,,,,2.6817816286043556
+10117539217,Colonia El Patio,neighbourhood,,,,,4.541141281514185
+10117539221,Fraccionamiento El Marqués,neighbourhood,,,,,1.7183235143464501
+10117539222,Barrio San Juan de Guadalupe,neighbourhood,,,,,2.865274579809565
+10117539223,Colonia Las Mercedes 1a. Sección,neighbourhood,,,,,3.7390615805979968
+10117539224,Fraccionamiento La Victoria,neighbourhood,,,,,3.76982314803556
+10117539225,Fraccionamiento Golondrinas,neighbourhood,,,,,1.9263351408208007
+10117539226,Colonia Tercera Grande 2,neighbourhood,,,,,4.609017555844054
+10117539229,Colonia 5o. Plano de la Genovevo Rivas Guillén,neighbourhood,,,,,1.2081295408723216
+10117539230,Fraccionamiento Libertad,neighbourhood,,,,,2.5420809293715245
+10117539231,Colonia de Alonso,neighbourhood,,,,,2.8580675155393758
+10117539232,Colonia Las Morenas,neighbourhood,,,,,4.494928107679454
+10117539233,Colonia Los Fresnos,neighbourhood,,,,,3.688184216715968
+10117539236,Colonia Expropiación Petrolera,neighbourhood,,,,,4.858779174990508
+10117539237,Fraccionamiento Misión del Palmar,neighbourhood,,,,,2.2577488639261016
+10117539238,Barrio San Luis,neighbourhood,,,,,1.7816323338168523
+10117539239,Colonia San Leonel,neighbourhood,,,,,2.929192083877257
+10117539240,Colonia Ecuestre,neighbourhood,,,,,4.414722114069687
+10117539242,Colonia La Loma,neighbourhood,,,,,1.9755508067452447
+10117539243,Condominios Tangamanga,neighbourhood,,,,,4.7663691594889
+10117539244,Colonia San Rafael,neighbourhood,,,,,0.4539940746289659
+10117539245,Fraccionamiento El Marqués,neighbourhood,,,,,2.0912343055218687
+10117539246,Colonia Colorines,neighbourhood,,,,,1.781245656072378
+10117539249,Colonia San Felipe,neighbourhood,,,,,3.8979884387900694
+10117539250,Colonia Tláloc 1a. Sección,neighbourhood,,,,,4.726014570338277
+10117539251,Ciudad Colonia 21 de Marzo,neighbourhood,,,,,0.6994735634905709
+10117539252,Colonia Jardines de Tequisquiapan,neighbourhood,,,,,4.836971861774789
+10117539253,Colonia Ponciano Arriaga,neighbourhood,,,,,0.2710534452276759
+10117539256,Colonia Privada Chapultepec,neighbourhood,,,,,2.096275313797987
+10117539258,Fraccionamiento Triángulo,neighbourhood,,,,,2.28938750238919
+10117539259,Fraccionamiento Los Reyitos,neighbourhood,,,,,4.234091097026718
+10117539260,Fraccionamiento Colonial El Quijote,neighbourhood,,,,,1.6592084186844493
+10117539263,Colonia Villas del Sol,neighbourhood,,,,,3.5283855787306617
+10117539265,Colonia Villas de Foresta,neighbourhood,,,,,0.5490068011987873
+10117539266,Fraccionamiento Ignacio Altamirano,neighbourhood,,,,,4.706903347309337
+10117539267,Fraccionamiento Estrella del Sur,neighbourhood,,,,,1.6138494025691095
+10117539269,Colonia Himno Nacional 2a. Sección,neighbourhood,,,,,4.3644937688213545
+10117539271,Fraccionamiento Colonial 20 de Noviembre,neighbourhood,,,,,4.182581922500353
+10117539272,Colonia Emiliano Zapata,neighbourhood,,,,,0.15498055361848992
+10117539274,Fraccionamiento Residencial Salk II,neighbourhood,,,,,3.2197140840838157
+10117539278,Colonia Santa Fe Oriente,neighbourhood,,,,,0.773560982511041
+10117539279,Colonia Bugambilias,neighbourhood,,,,,1.0403752149925833
+10117539280,Colonia Bolívar (San Miguelito),neighbourhood,,,,,3.2304927005596644
+10117539281,Fraccionamiento Las Mercedes,neighbourhood,,,,,3.505020655946011
+10117539282,Fraccionamiento Residencial Alameda,neighbourhood,,,,,2.79549776891399
+10117539286,Colonia Benito Juárez,neighbourhood,,,,,0.5473522041907706
+10117539287,Fraccionamiento Eucaliptos,neighbourhood,,,,,1.6160602707827754
+10117539288,Colonia Abastos Segunda,neighbourhood,,,,,1.9717324289522982
+10117539289,Colonia Juan Álvarez,neighbourhood,,,,,4.44468857460639
+10117539290,Fraccionamiento La Costana,neighbourhood,,,,,3.835468603701864
+10117539291,Fraccionamiento Xicoténcatl,neighbourhood,,,,,3.619710162863233
+10117539294,Colonia Las Flores,neighbourhood,,,,,3.367954748755012
+10117539295,Fraccionamiento Las Palmas,neighbourhood,,,,,2.6299098772448124
+10117539296,Colonia De la Rosa,neighbourhood,,,,,3.6298797874765456
+10117539297,Fraccionamiento General Ignacio Martínez,neighbourhood,,,,,3.4417510048684754
+10117539300,Colonia Las Higueras,neighbourhood,,,,,4.061002351266843
+10117539301,Colonia Bolívar,neighbourhood,,,,,3.7150655695240955
+10117539302,Colonia Villa de las Torres,neighbourhood,,,,,2.211761626255999
+10117539303,Fraccionamiento España,neighbourhood,,,,,2.7867104593857017
+10117539304,Colonia Satélite Residencial,neighbourhood,,,,,2.8436473097160135
+10117539307,Colonia Arcos de San Pedro,neighbourhood,,,,,1.7964005909796017
+10117539309,Colonia Villa Alborada,neighbourhood,,,,,1.016116570659344
+10117539310,Colonia El Paseo 4a. Sección,neighbourhood,,,,,1.5336895802232
+10117539311,Colonia Prados Glorieta 2a. Sección,neighbourhood,,,,,0.5667375154734537
+10117539314,Colonia Urbana Morelos,neighbourhood,,,,,4.406958554426743
+10117539316,Fraccionamiento San Salvador,neighbourhood,,,,,2.4981697987652627
+10117539317,Colonia Los Garza,neighbourhood,,,,,4.053806547131784
+10117539318,Colonia Ricardo B. Anaya,neighbourhood,,,,,0.5234533806721057
+10117539321,Colonia Rancho Pavón,neighbourhood,,,,,3.3606590747253664
+10117539323,Fraccionamiento Nuestra Señora,neighbourhood,,,,,2.6890272836778735
+10117539324,Fraccionamiento Valles del Santiago,neighbourhood,,,,,4.9335210545031245
+10117539325,Fraccionamiento Anexo Esmeralda,neighbourhood,,,,,0.7008512467126244
+10117539327,Colonia Balcones del Valle 2a. Sección,neighbourhood,,,,,4.7696846826306345
+10117539328,Colonia San Gerardo,neighbourhood,,,,,3.380451925308025
+10117539330,Colonia Privada Santa Fe,neighbourhood,,,,,0.09725853809087255
+10117539331,Fraccionamiento Bugambilias,neighbourhood,,,,,4.550360979168223
+10117539332,Fraccionamiento El Aguaje 2000,neighbourhood,,,,,3.413065105635715
+10117539334,Colonia Primavera,neighbourhood,,,,,4.476251417602964
+10117539336,Modulo Habitacional San Sebastián,neighbourhood,,,,,4.702495154534189
+10117539337,Colonia Santa Cruz,neighbourhood,,,,,0.1634285812558653
+10117539343,Colonia Praderas del Maurel,neighbourhood,,,,,1.4976410053379507
+10117539344,Fraccionamiento San Juan de Guadalupe,neighbourhood,,,,,2.424960900025808
+10117539345,Fraccionamiento La Misión,neighbourhood,,,,,3.3906262621160472
+10117539346,Colonia Moderna,neighbourhood,,,,,3.6943600652140827
+10117539347,Colonia Anáhuac,neighbourhood,,,,,1.4590229343840195
+10117539351,Colonia Reforma 2a. Sección,neighbourhood,,,,,0.4153456639364837
+10117539352,Colonial Abastos,neighbourhood,,,,,1.7504385776727853
+10117539353,Colonia Campesina,neighbourhood,,,,,2.7781106380692764
+10117539354,Colonia Rural El Vivero,neighbourhood,,,,,3.9575525185436833
+10117539358,Fraccionamiento Jardines de la Libertad,neighbourhood,,,,,1.8171338859893629
+10117539359,Fraccionamiento Encanto,neighbourhood,,,,,1.812935781079268
+10117539360,Colonia 5 de febrero,neighbourhood,,,,,2.658950261798724
+10117539363,Colonia La Lomita 2a. Sección,neighbourhood,,,,,2.0166415242258533
+10117539364,Colonia María García Camacho,neighbourhood,,,,,3.5245133721523807
+10117539365,Colonia Sierra Bonita,neighbourhood,,,,,1.457283775315757
+10117539366,Fraccionamiento Avantram,neighbourhood,,,,,3.2489959891738946
+10117539367,Fraccionamiento Villa Española,neighbourhood,,,,,2.2292884710358405
+10117539370,Colonia Las Américas,neighbourhood,,,,,3.5859508450953417
+10117539371,Fraccionamiento Juan del Jarro,neighbourhood,,,,,4.87498711453133
+10117539372,Colonia Ejido San Francisco,neighbourhood,,,,,0.3324350155851158
+10117539373,Colonia Valle de Tequisquiapan,neighbourhood,,,,,4.810508996449088
+10117539374,Colonia Jardines del Valles 2a. Sección,neighbourhood,,,,,0.5385867127831263
+10117539377,Colonia Privada Escontría,neighbourhood,,,,,3.717707183055332
+10117539379,Industrial Tangamanga,neighbourhood,,,,,2.0551132408588617
+10117539380,Conjunto San Miguel,neighbourhood,,,,,4.630662605887592
+10117539381,Colonia Prados de San Vicente 1a. Sección,neighbourhood,,,,,2.1726762548952374
+10117539384,Colonia Pavón 2a. Sección,neighbourhood,,,,,2.9751432681764616
+10117539386,Colonia Foresta de Tequis,neighbourhood,,,,,0.4553328804764249
+10117539387,Fraccionamiento Pedro Montoya,neighbourhood,,,,,4.484064194525192
+10117539390,Colonia Balcones del Valle 4a. Sección,neighbourhood,,,,,4.86963701057521
+10117539393,Colonia Privada Hacienda Guadalupe,neighbourhood,,,,,0.5052991696763476
+10117539394,Fraccionamiento Las Garzas Pernd.,neighbourhood,,,,,4.773839004944799
+10117539395,Fraccionamiento Residencial Salk,neighbourhood,,,,,3.039848071193049
+10117539397,Colonia San Juan de Guadalupe (Comunidad),neighbourhood,,,,,4.839297991439329
+10117539399,Fraccionamiento Talleres,neighbourhood,,,,,0.06992152483621838
+10117539400,Colonia Hogares Ferrocarrileros 1a. Sección,neighbourhood,,,,,1.1834898465924237
+10117539401,Colonia Bellavista,neighbourhood,,,,,3.5238623065465
+10117539403,Fraccionamiento Los Álamos,neighbourhood,,,,,1.5009142264719906
+10117539407,Colonia Azaleas,neighbourhood,,,,,1.17276297119167
+10117539408,Fraccionamiento Residencial Gaviotas,neighbourhood,,,,,1.1819273269987445
+10117539409,Unidad Habitacional Rancho Viejo,neighbourhood,,,,,2.412510139997993
+10117539410,Colonia Rinconada de Santiago,neighbourhood,,,,,3.6856235489988003
+10117539411,Colonia Mar Charbel,neighbourhood,,,,,0.6124653007961288
+10117539412,Colonia Satélite Francisco I. Madero,neighbourhood,,,,,3.9969432794512403
+10117539415,Fraccionamiento Villas del Morro,neighbourhood,,,,,2.2551369135097734
+10117539416,Colonia Viejo 2a. Sección,neighbourhood,,,,,2.1897543528720074
+10117539417,Fraccionamiento Jalapa,neighbourhood,,,,,2.540656749682765
+10117539418,Colonia Valle de Bellavista,neighbourhood,,,,,3.865392303893284
+10117539421,Colonia La Constancia,neighbourhood,,,,,4.986795107359758
+10117539422,Colonia León García,neighbourhood,,,,,3.475296740030326
+10117539423,Fraccionamiento Los Molinos,neighbourhood,,,,,2.503818636511634
+10117539424,Fraccionamiento Avenida México,neighbourhood,,,,,2.610306380475327
+10117539425,Colonia Constituyentes 1a. Sección,neighbourhood,,,,,2.4660337443365745
+10117539428,Colonia Villa Fontana,neighbourhood,,,,,1.7419993873032238
+10117539430,Colonia Los Cactus,neighbourhood,,,,,0.5799898743720209
+10117539431,Fraccionamiento Central,neighbourhood,,,,,1.1588818012727111
+10117539432,Colonia Hermenegildo Aldana,neighbourhood,,,,,0.21527163386667825
+10117539436,Colonia Tláloc 2a. Sección,neighbourhood,,,,,4.724738143016496
+10117539437,Fraccionamiento Misión de Loreto,neighbourhood,,,,,2.616341492564566
+10117539438,Colonia de Rinconada Tequisquiapan,neighbourhood,,,,,4.916663760083382
+10117539439,Fraccionamiento Obispado,neighbourhood,,,,,0.8760399484316846
+10117539442,Colonia Residencial Pavón,neighbourhood,,,,,3.09535281415358
+10117539444,Fraccionamiento Industrias,neighbourhood,,,,,2.2288797635177424
+10117539445,Fraccionamiento Juan Álvarez,neighbourhood,,,,,4.5465058726769145
+10117539446,Fraccionamiento Rinconada de Valle Dorada,neighbourhood,,,,,0.6359628041647966
+10117539449,Colonia Soledad Diez Gutiérrez,neighbourhood,,,,,2.9569985297469636
+10117539451,Colonia San Luis I,neighbourhood,,,,,0.1852394443846282
+10117539452,Fraccionamiento Arboleda,neighbourhood,,,,,4.31246279385233
+10117539453,Colonia 6 de Junio,neighbourhood,,,,,2.097129184136597
+10117539455,Fraccionamiento Viveros,neighbourhood,,,,,4.757480619092025
+10117539457,Fraccionamiento Prados de Oriente,neighbourhood,,,,,0.3382247762849116
+10117539458,Colonia Privada Hacienda de San Agustín,neighbourhood,,,,,0.47961394933883494
+10117539460,Fraccionamiento Mariano Hidalgo,neighbourhood,,,,,4.412752002240832
+10117539464,Fraccionamiento INFONAVIT San Antonio,neighbourhood,,,,,1.271996339079378
+10117539465,Fraccionamiento Julián Carrillo,neighbourhood,,,,,2.032900523284001
+10117539466,Colonia INFONAVIT Ciudad 2000,neighbourhood,,,,,2.963437341200666
+10117539467,Colonia Puente Real,neighbourhood,,,,,1.244960742206132
+10117539471,Colonia El Escobillas,neighbourhood,,,,,1.5703532333107253
+10117539472,Colonia Santa Fe 1a. Sección,neighbourhood,,,,,2.0339314255991794
+10117539473,Colonia Abastos,neighbourhood,,,,,2.0562015716442357
+10117539474,Colonia Llamaradas,neighbourhood,,,,,4.082759676282267
+10117539475,Fraccionamiento Las Minas,neighbourhood,,,,,0.28364895499076204
+10117539476,Colonia Satélite Francisco I. Madero III,neighbourhood,,,,,4.298497947049947
+10117539479,Colonia La Rivera,neighbourhood,,,,,4.855192328801094
+10117539480,Fraccionamiento Prados Sección Oriente,neighbourhood,,,,,2.0220530200131694
+10117539481,Fraccionamiento San Antonio,neighbourhood,,,,,1.6970025450554727
+10117539482,Colonia San Leonel 1a. Sección,neighbourhood,,,,,2.642284563143284
+10117539485,Colonia Urbana Textil,neighbourhood,,,,,4.733078889160093
+10117539486,Colonia Carbonera Xicoténcatl,neighbourhood,,,,,3.474136816756656
+10117539487,Colonia La Libertad,neighbourhood,,,,,1.5406280581179677
+10117539488,Colonia Popular,neighbourhood,,,,,2.733770187523789
+10117539489,Fraccionamiento Las Joyas,neighbourhood,,,,,0.4684461684729881
+10117539492,Colonia Privada San Jorge,neighbourhood,,,,,3.5280738306444124
+10117539494,Colonia Rural W,neighbourhood,,,,,0.2396289688358281
+10117539495,Colonia Santana,neighbourhood,,,,,3.9124840391823708
+10117539496,Colonia Prados Glorieta 3a. Sección,neighbourhood,,,,,0.4760681003099916
+10117539499,Colonia Central de Maquinaria,neighbourhood,,,,,2.5384653988834307
+10117539501,Industrial San Luis,neighbourhood,,,,,2.2853352453472726
+10117539502,Condominios San Pedro,neighbourhood,,,,,4.517597417187359
+10117539503,Colonia Ricardo B. Anaya 2a. Sección,neighbourhood,,,,,1.2092489018089254
+10117539506,Colonia San Andrés,neighbourhood,,,,,3.3481792043535865
+10117539508,Fraccionamiento Jardines del Sur,neighbourhood,,,,,1.0508813599646956
+10117539509,Fraccionamiento Huerta Real Plus,neighbourhood,,,,,4.826561382424541
+10117539510,Colonia INFONAVIT Simón Díaz,neighbourhood,,,,,2.5286725176644587
+10117539512,Fraccionamiento Profesor Graciano Sánchez 2a. Sección,neighbourhood,,,,,3.905297404778438
+10117539515,Colonia Privada Hacienda San Gabriel,neighbourhood,,,,,0.1293424334765592
+10117539516,Fraccionamiento San Gabriel,neighbourhood,,,,,4.788836980990617
+10117539517,Fraccionamiento INFONAVIT Los Arbolitos,neighbourhood,,,,,2.865318424936414
+10117539521,Fraccionamiento Capricornio,neighbourhood,,,,,0.6753159187005102
+10117539522,Colonia Hogares Ferrocarrileros 3a. Sección,neighbourhood,,,,,0.28722774573575266
+10117539528,Colonia El Polvorín,neighbourhood,,,,,1.3209369964743927
+10117539529,Colonia San Luis Rey,neighbourhood,,,,,1.5420360698846216
+10117539530,Colonia Libertad INFONAVIT 2a. Sección,neighbourhood,,,,,3.2320155424917156
+10117539531,Colonia Hidalgo,neighbourhood,,,,,3.2835997850441507
+10117539532,Fraccionamiento Satélite,neighbourhood,,,,,3.975726719644869
+10117539533,Colonia Campestre Juan Silos,neighbourhood,,,,,4.540302831096586
+10117539536,Fraccionamiento Las Palmas,neighbourhood,,,,,2.108402317972713
+10117539537,Colonia El Palmar,neighbourhood,,,,,2.2271273801596645
+10117539538,Colonia Constitución (Popular),neighbourhood,,,,,2.394047827742297
+10117539539,Fraccionamiento 5 de Mayo,neighbourhood,,,,,2.9741878321985182
+10117539542,Colonia Centro,neighbourhood,,,,,4.890109338143742
+10117539543,Fraccionamiento Niños Héroes,neighbourhood,,,,,3.2657718983677335
+10117539544,Fraccionamiento Silos 13,neighbourhood,,,,,2.8607256036968254
+10117539545,Fraccionamiento Durango,neighbourhood,,,,,1.9306779425234029
+10117539546,Colonia Constituyentes 2a. Sección,neighbourhood,,,,,2.4415711151807855
+10117539549,Colonia Privada Agaves I,neighbourhood,,,,,1.980061310567129
+10117539551,Colonia Villa de los Cactus,neighbourhood,,,,,0.8493384441821543
+10117539552,Colonia El Paseo,neighbourhood,,,,,1.3775813377025414
+10117539553,Fraccionamiento Holanda,neighbourhood,,,,,0.2571636963443813
+10117539556,Colonia Industrial La Raza,neighbourhood,,,,,3.6157787553802465
+10117539558,Colonia Unidad Militar,neighbourhood,,,,,0.3948634679387787
+10117539559,Condominios Santiago,neighbourhood,,,,,4.013259211443871
+10117539560,Fraccionamiento Minas del Real,neighbourhood,,,,,0.9373205305503505
+10117539563,Fraccionamiento San Francisco 3er. Plano,neighbourhood,,,,,2.4340831020727918
+10117539565,Fraccionamiento Español,neighbourhood,,,,,2.5662321938972115
+10117539566,Fraccionamiento San Juan,neighbourhood,,,,,4.591156575622424
+10117539567,Fraccionamiento Valle Dorado,neighbourhood,,,,,0.7704150146152461
+10117539570,Colonia NIños Héroes,neighbourhood,,,,,2.6867642074656692
+10117539572,Colonia Del Bosque,neighbourhood,,,,,0.490279580321213
+10117539574,Colonia Simón Díaz (INDECO),neighbourhood,,,,,2.584690358334319
+10117539578,Colonia Distribuidor Vial Benito Juárez,neighbourhood,,,,,1.1613265138355986
+10117539579,Colonia Privada Hacienda La Estancia,neighbourhood,,,,,0.32832551751977035
+10117539581,Fraccionamiento Trojes del Sur,neighbourhood,,,,,2.2910951322710305
+10117539586,Colonia Francisco Sarabia,neighbourhood,,,,,0.1874984277275837
+10117539587,Fraccionamiento Juárez,neighbourhood,,,,,2.867850800595745
+10117539588,Colona La Libertad,neighbourhood,,,,,3.6702370652190446
+10117539589,Colonia Prados Glorieta 4a. Sección,neighbourhood,,,,,0.32554583011482147
+10117539593,Fraccionamiento La Virgen,neighbourhood,,,,,2.5112002479740654
+10117539594,Colonia Las Pilitas,neighbourhood,,,,,1.7148563092068454
+10117539595,Colonia Prados de San Vicente 2a. Sección,neighbourhood,,,,,1.9342569544626624
+10117539596,Colonia Alamitos,neighbourhood,,,,,3.5400785654400453
+10117539597,Fraccionamiento Antorcha Popular,neighbourhood,,,,,3.184447615993411
+10117539598,Colonia Lomas de Bellavista,neighbourhood,,,,,3.7501673139800036
+10117539602,Colonia Prados Rancho,neighbourhood,,,,,2.1601022362727926
+10117539603,"Colonia El Paseo (1a., 2a. y 3a. Sección)",neighbourhood,,,,,1.7583468486172318
+10117539604,Colonia Prados Satélite,neighbourhood,,,,,3.836435077708083
+10117539605,Colonia San José 1a. Sección,neighbourhood,,,,,4.3283066796010505
+10117539607,Colonia Pípila,neighbourhood,,,,,4.191628300297319
+10117539608,Colonia ISSSTE,neighbourhood,,,,,4.289846581686217
+10117539609,Fraccionamiento Arco Iris,neighbourhood,,,,,1.688130796408738
+10117539610,Fraccionamiento Industrial Mexicana,neighbourhood,,,,,3.4428192938029474
+10117539611,Colonia Españita,neighbourhood,,,,,1.0943743778410195
+10117539614,Colonia Privada Agaves III,neighbourhood,,,,,1.9282477387767774
+10117539616,Colonia Villa del Potosí,neighbourhood,,,,,0.6803669355794411
+10117539617,Colonia Estadio,neighbourhood,,,,,4.1464749915157935
+10117539618,Unidad Habitacional Ponciano Arriaga 3a. Sección,neighbourhood,,,,,0.5077844898603495
+10117539621,Colonia Rinconada Chapultepec,neighbourhood,,,,,2.2442371318768117
+10117539623,Zona Industrial 1a. Privada de las Flores,neighbourhood,,,,,1.922031433622493
+10117539624,Conjunto Pedro Moreno,neighbourhood,,,,,4.357313502115669
+10117539625,Colonia José Gálvez,neighbourhood,,,,,1.358595850593727
+10117539628,Colonia Pavón 3a. Sección,neighbourhood,,,,,2.998094739762168
+10117539630,Zona Industrial Providencia (Industrias),neighbourhood,,,,,1.8694589774206851
+10117539631,Fraccionamiento Zacatecas,neighbourhood,,,,,4.711978461149123
+10117539632,Colonia Progreso,neighbourhood,,,,,1.9191389224411954
+10117539634,Fraccionamiento Profesor Graciano Sánchez,neighbourhood,,,,,3.957494132320909
+10117539635,Fraccionamiento El Cielo,neighbourhood,,,,,4.896752537963277
+10117539637,Colonia Derechos Humanos,neighbourhood,,,,,0.32140529270281026
+10117539638,Fraccionamiento Militar,neighbourhood,,,,,4.985690869222883
+10117539639,Fraccionamiento El Aguaje (INESVI),neighbourhood,,,,,3.097958591107408
+10117539641,Fraccionamiento Simón Díaz Aguaje,neighbourhood,,,,,4.199495341435083
+10117539643,Condominios Glorieta Central,neighbourhood,,,,,0.7385048997752546
+10117539644,Unidad Ponciano Arriaga,neighbourhood,,,,,0.4158888870493324
+10117539650,Colonia Hogares Ferrocarrileros 2a. Sección,neighbourhood,,,,,0.9637451321288337
+10117539651,Fraccionamiento Villas de San Miguel,neighbourhood,,,,,3.094487233840205
+10117539652,Fraccionamiento Del Río,neighbourhood,,,,,3.190179177017441
+10117539653,Barrio Tlaxcala,neighbourhood,,,,,3.9814590881929535
+10117539654,Fraccionamiento Lomas de Satélite 2a. Sección,neighbourhood,,,,,3.8100946700616527
+10117539658,Fraccionamiento La Hormiga,neighbourhood,,,,,1.733140009007571
+10117539659,Colonia Villas del Sol,neighbourhood,,,,,1.570276959467988
+10117539660,Colonia La Arboleda,neighbourhood,,,,,4.072747876590461
+10117539661,Fraccionamiento El Mercado,neighbourhood,,,,,3.1399664132678446
+10117539665,Fraccionamiento Torres del Santuario,neighbourhood,,,,,2.4019932321556507
+10117539666,Fraccionamiento Silos 14,neighbourhood,,,,,2.8472381146085293
+10117539667,Condominios Glorieta,neighbourhood,,,,,1.5630108563043799
+10117539668,Fraccionamiento Diagonal,neighbourhood,,,,,2.1961731910231195
+10117539669,Fraccionamiento El Peñol,neighbourhood,,,,,4.261805408413289
+10117539671,Colonia Privada de San Pedro,neighbourhood,,,,,1.7544382799774383
+10117539672,Colonia Del Real 1a. Sección,neighbourhood,,,,,4.618286509638915
+10117539673,Colonia Bosques de Oriente,neighbourhood,,,,,1.2903737325679605
+10117539674,Fraccionamiento Bosques del Marqués,neighbourhood,,,,,2.4786076967476927
+10117539675,Fraccionamiento Valle Dorado 1a. Sección,neighbourhood,,,,,0.7531012910568253
+10117539680,Zona Urbana Ejidal de Graciano Sánchez,neighbourhood,,,,,0.06523778596822644
+10117539681,Fraccionamiento Los Ángeles,neighbourhood,,,,,4.451879798453088
+10117539682,Colonia Jardines del Valle,neighbourhood,,,,,0.9074207510255589
+10117539685,Colonia Valle de San Pedro,neighbourhood,,,,,2.278497838809825
+10117539687,Fraccionamiento El Bosquesito,neighbourhood,,,,,1.9681196604492626
+10117539688,Fraccionamiento Santiago,neighbourhood,,,,,4.345149285180556
+10117539689,Fraccionamiento Naranjal de Valle Dorado,neighbourhood,,,,,0.7760154712839236
+10117539692,Colonia Privada Nuestra Señora de la Soledad,neighbourhood,,,,,3.5181569066774987
+10117539694,Colonia Roberto Cervantes,neighbourhood,,,,,0.49009750004164787
+10117539696,Unidad Habitacional INFONAVIT Nuevo Progreso,neighbourhood,,,,,2.976954633657181
+10117539700,Colonia Norte,neighbourhood,,,,,4.679433807083741
+10117539701,Colonia Privada San Sebastián,neighbourhood,,,,,0.20411262488225443
+10117539703,Fraccionamiento Don Miguel,neighbourhood,,,,,3.404207196531403
+10117539708,Colonia Genovevo Rivas Guillén,neighbourhood,,,,,0.5775390390798841
+10117539709,Fraccionamiento Nuevo León,neighbourhood,,,,,2.3704056837275225
+10117539710,Colonia Ciudad Orquídea,neighbourhood,,,,,3.8383628403334673
+10117539711,Barrio Montecillo,neighbourhood,,,,,2.9024386585978412
+10117539712,Fraccionamiento Jardines Nuevo Paseo,neighbourhood,,,,,1.3286007961484754
+10117539716,Colonia Genovevo Rivas Guillén 3a. Sección,neighbourhood,,,,,0.9022405060365576
+10117539717,Colonia Revolución,neighbourhood,,,,,2.511945320411259
+10117539718,Colonia Viveros La Libertad,neighbourhood,,,,,1.8976771175439846
+10117539719,Barrio de San Miguelito,neighbourhood,,,,,3.1309701302094264
+10117539720,Fraccionamiento Agua Real,neighbourhood,,,,,3.478268404073639
+10117539721,Fraccionamiento Lomas de Satélite,neighbourhood,,,,,3.624915758117156
+10117539725,Fraccionamiento Praderas del Real,neighbourhood,,,,,1.7399952026019139
+10117539726,Colonia Independencia,neighbourhood,,,,,3.0722463398272195
+10117539727,Colonia Constituyentes,neighbourhood,,,,,3.0303219951047864
+10117539730,Colonia El Morro,neighbourhood,,,,,2.3522261198465637
+10117539731,Colonia Himno Nacional 1a. Sección,neighbourhood,,,,,4.003013959259145
+10117539732,Fraccionamiento Los Silos,neighbourhood,,,,,2.8555487436146234
+10117539733,Colonia La Paz,neighbourhood,,,,,3.4591244919839252
+10117539734,Colonia San Leonel 2a. Sección,neighbourhood,,,,,2.8220957291757536
+10117539737,Colonia Privada Agaves II,neighbourhood,,,,,2.047664325835975
+10117539739,Colonia Hogares Obreros,neighbourhood,,,,,1.0901569780489995
+10117539740,Colonia Jardines del Estadio,neighbourhood,,,,,4.506415270740439
+10117539741,Colonia Prados Glorieta,neighbourhood,,,,,0.24015751428921814
+10117539744,Colonia Urbana Las Arboledas 2a. Sección,neighbourhood,,,,,4.399633186491517
+10117539746,Zona Industrial 2a. Privada de las Flores,neighbourhood,,,,,1.8672667700886691
+10117539747,Fraccionamiento La Montaña,neighbourhood,,,,,4.3488997288195135
+10117539748,Colonia Central de Abastos,neighbourhood,,,,,1.2777708782492556
+10117539751,Conjunto Las Aves,neighbourhood,,,,,2.735065750843103
+10117539753,Fraccionamiento Del Sol,neighbourhood,,,,,0.37656918349387764
+10117539754,Fraccionamiento Damián Carmona (Barrio de Santiago),neighbourhood,,,,,4.456393188153392
+10117539755,Fraccionamiento Industrias Químicas de México,neighbourhood,,,,,1.1150304025194893
+10117539757,Colonia Balcones del Valle 1a. Sección,neighbourhood,,,,,4.6927831945230585
+10117539758,Colonia Virgen,neighbourhood,,,,,4.541669399733202
+10117539760,Colonia 1o. de Mayo 2a. Sección,neighbourhood,,,,,0.5278627353586082
+10117539762,Fraccionamiento Los Pinos,neighbourhood,,,,,2.562315673983682
+10117539764,Fraccionamiento Tepeyac,neighbourhood,,,,,4.186389988456237
+10117539766,Fraccionamiento San Patricio,neighbourhood,,,,,0.8403360455621667
+10117539767,Colonia Hacienda de Las Cruces,neighbourhood,,,,,0.24120983647168853
+10117539768,Fraccionamiento Rural Moctezuma,neighbourhood,,,,,4.223146533401182
+10117539773,Colonia San Antonio,neighbourhood,,,,,0.8940850407915756
+10117539774,Condominios San Miguelito,neighbourhood,,,,,3.0466224312625068
+10117539775,Colonia Cecilia Occelli,neighbourhood,,,,,3.07892754694641
+10117539776,Centro Histórico,neighbourhood,,,,,3.3201892260193624
+10117539777,Colonia San Manuel,neighbourhood,,,,,1.4113020690050018
+10117539781,Fraccionamiento San Francisco,neighbourhood,,,,,2.1112317130044334
+10117539782,Barrio Librado Rivera,neighbourhood,,,,,2.242459251802607
+10117539783,Colonia Santuario,neighbourhood,,,,,3.1142620115283877
+10117539787,Fraccionamiento Valle del Santuario,neighbourhood,,,,,2.6920317802468348
+10117539788,Fraccionamiento Libertad de México,neighbourhood,,,,,1.7065188176853465
+10117539789,Fraccionamiento Manuel José Othón,neighbourhood,,,,,1.596089610745826
+10117539790,Colonia Santa Fe 2a. Sección,neighbourhood,,,,,2.0129525033995
+10117539791,Colonia San José 2a. Sección,neighbourhood,,,,,4.4005475549335005
+10117539793,Colonia La Lomita 3a. Sección,neighbourhood,,,,,2.3400925829787
+10117539794,Colonia Del Real 2a. Sección,neighbourhood,,,,,4.562052158819921
+10117539795,Colonia Prados de Soledad,neighbourhood,,,,,0.8888195722778128
+10117539796,Unidad Habitacional San Jorge,neighbourhood,,,,,2.941633012956827
+10117539797,Fraccionamiento Valle Dorado 2a. Sección,neighbourhood,,,,,0.24659017974051844
+10117539800,Colonia Lomas de San Felipe,neighbourhood,,,,,4.06527212547031
+10117539801,Condominio San Guillermo,neighbourhood,,,,,4.802445538612988
+10117539802,Fraccionamiento Laureles del Sur,neighbourhood,,,,,2.2468926253667263
+10117539803,Colonia Foresta de Tequis,neighbourhood,,,,,4.69043760575847
+10117539804,Colonia Laurel,neighbourhood,,,,,0.8347128650388869
+10117539807,Colonia Urbana Central de Maquinaria,neighbourhood,,,,,2.9550093098333874
+10117539809,Habitacional Villarreal del Conde,neighbourhood,,,,,1.8110096350272342
+10117539810,Fraccionamiento Coronel Espinoza,neighbourhood,,,,,4.513328801564999
+10117539811,Colonia INFONAVIT Abastos,neighbourhood,,,,,1.660021802835659
+10117539814,Colonia María Fernanda,neighbourhood,,,,,3.4172636988038945
+10117539816,Colonia Colinas del Bosque,neighbourhood,,,,,0.7526692793958544
+10117539818,Fraccionamiento Colonial Nuevo Progreso,neighbourhood,,,,,2.40680642953311
+10117539823,Colonia Privada Hacienda San Mateo,neighbourhood,,,,,0.33210287204768796
+10117539824,Fraccionamiento Mariano Ávila,neighbourhood,,,,,4.881776384358565
+10117539826,Colonia Residencial Santiago,neighbourhood,,,,,3.414049916381173
+10117539828,Fraccionamiento Esmeralda,neighbourhood,,,,,0.5516568684599877
+10117539829,Colonia Fidel Velázquez,neighbourhood,,,,,1.3941317999198097
+10117539830,Colonia Potosí Río Verde,neighbourhood,,,,,3.9059620278949425
+10117539831,Fraccionamiento Cerrada del Bosque,neighbourhood,,,,,1.5252140586043783
+10117539835,Colonia Genovevo Rivas Guillén 2a. Sección,neighbourhood,,,,,1.0798998227095844
+10117539836,Colonia Constitución (San Luis Rey),neighbourhood,,,,,2.0319561542033866
+10117539837,Colonia Azteca,neighbourhood,,,,,2.8181166448177146
+10117539838,Barrio Azteca Norte,neighbourhood,,,,,2.58326915550736
+10117539839,Fraccionamiento Palmar Chico,neighbourhood,,,,,2.0635077979013605
+10117539840,Colonia Satélite Francisco I. Madero II,neighbourhood,,,,,3.881622078341663
+10117539843,Fraccionamiento Bosques de San Francisco,neighbourhood,,,,,1.5386480405233962
+10117539844,Colonia La Libertad 1a. Sección,neighbourhood,,,,,1.592161756821828
+10117539845,Fraccionamiento Melchor Ocampo,neighbourhood,,,,,4.228780956559105
+10117539846,Colonia Prados Satélite 2a. Sección,neighbourhood,,,,,3.5019319188713083
+10117539849,Colonia Valle de San Isidro,neighbourhood,,,,,1.8945014651694347
+10117539850,Colonia San Juanita,neighbourhood,,,,,3.37172206776915
+10117539851,Colonia Rancho La Libertad,neighbourhood,,,,,1.5886821403131388
+10117539852,Colonia Joya de Luna,neighbourhood,,,,,2.3084815632753886
+10117539853,Colonia Santa Fe Sur,neighbourhood,,,,,2.0400047376406296
+10117539856,Colonia Hacienda Las Margaritas,neighbourhood,,,,,1.7770629220426095
+10117539857,Colonia Tláloc,neighbourhood,,,,,4.982957249586752
+10117539858,Colonia Rinconadas de Ricardo B. Anaya,neighbourhood,,,,,1.0866798365663868
+10117539859,Colonia Zamilpa,neighbourhood,,,,,3.7708274534809645
+10117539860,Fraccionamiento Providencia,neighbourhood,,,,,0.13017578670913088
+10117539865,Fraccionamiento Dalias,neighbourhood,,,,,1.7478639143141899
+10117539866,Fraccionamiento Apelsa,neighbourhood,,,,,4.41397378353509
+10117539867,Colonia Jaime Torres Bodet,neighbourhood,,,,,1.0429726038529865
+10117539870,Colonia El Barranco,neighbourhood,,,,,3.151369390486438
+10117539872,Fraccionamiento Real del Quijote,neighbourhood,,,,,1.2290960549385137
+10117539873,Barrio Fortín de Fundadores,neighbourhood,,,,,3.6753639815624943
+10117539874,Fraccionamiento Dalias del Llano,neighbourhood,,,,,1.5574449582964782
+10117539879,Colonia El Tanquesito,neighbourhood,,,,,0.2550689358680083
+10117539881,Fraccionamiento Valle del Progreso,neighbourhood,,,,,2.4800641386956213
+10117539885,Colonia Refinería Pemex,neighbourhood,,,,,1.1215011462558566
+10117539886,Colonia Conjunto del Real,neighbourhood,,,,,0.29029201704075136
+10117539888,Colonia Álamo,neighbourhood,,,,,4.034031542435417
+10117539892,Colonia Las Canteras,neighbourhood,,,,,1.886327330119626
+10117539893,Fraccionamiento Guadalupe,neighbourhood,,,,,2.764693345013904
+10117539894,Fraccionamiento San Cristóbal,neighbourhood,,,,,3.188021454524741
+10117539895,Barrio de San Sebastián,neighbourhood,,,,,3.117668626880472
+10117539896,Colonia Valle del Potosí,neighbourhood,,,,,1.3893359396001193
+10117539897,Colonia Los Arquitos,neighbourhood,,,,,3.619815529631604
+10117539900,Colonia Sánchez,neighbourhood,,,,,2.5106077928363715
+10117539901,Fraccionamiento Jardines del Rosario,neighbourhood,,,,,2.7818757786679162
+10117539902,Fraccionamiento Deportivo Ferrocarrilero,neighbourhood,,,,,2.9162322603932025
+10117539903,Colonia Estadio (Tuna Manza),neighbourhood,,,,,4.809530742434746
+10117539904,Colonia Simón Díaz,neighbourhood,,,,,3.1519527956019933
+10117539907,Colonia 16 de Septiembre,neighbourhood,,,,,4.185498510246682
+10117539908,Colonia Villa Rica,neighbourhood,,,,,2.926240637707585
+10117539909,Fraccionamiento San Jorge,neighbourhood,,,,,1.6970905716270703
+10117539910,Fraccionamiento Insurgentes,neighbourhood,,,,,1.782580632572001
+10117539911,Colonia Santuario (Satélite),neighbourhood,,,,,3.175360180611264
+10117539912,Colonia Guanos,neighbourhood,,,,,4.216841178996211
+10117539914,Colonia Urbano El Escobillal,neighbourhood,,,,,2.296464797948429
+10117539916,Colonia La Sierra,neighbourhood,,,,,1.347842730475823
+10117539917,Colonia Francisco I. Madero,neighbourhood,,,,,1.2758539613009843
+10117539918,Colonia Mayamil,neighbourhood,,,,,0.057631813092362975
+10117539921,Colonia Valle de Santiago,neighbourhood,,,,,3.3200456641654195
+10117539922,Colonia de los Ángeles,neighbourhood,,,,,4.8624591152987025
+10117539923,Colonia Ejido La Soledad,neighbourhood,,,,,0.10534738028739499
+10117539924,Colonia Las Águilas 2a. Sección,neighbourhood,,,,,4.932940661199971
+10117539925,Colonia Sol,neighbourhood,,,,,0.05825825958983639
+10117539928,Colonia Rinconada San Pedro,neighbourhood,,,,,2.7180091833364717
+10117539930,Fraccionamiento Juan Sarabia,neighbourhood,,,,,2.6086489562850366
+10117539931,Fraccionamiento Fresnos del Río,neighbourhood,,,,,4.536987906382014
+10117539932,Colonia Villa Boreal,neighbourhood,,,,,1.2858815372022214
+10940125282,Tarragona Residencial,neighbourhood,,,,,4.299410344701172
+10940125283,Cennet Grand,neighbourhood,,,,,4.395320539148512
+10940125284,Cennet,neighbourhood,,,,,4.2947408043286925
+10940125285,Imperia Residencial,neighbourhood,,,,,3.933660896066588
+11653392654,El Epazote,hamlet,,,,,0.47786682553502824
+11653392656,La Escondida,hamlet,,,,,2.87388303805124
+11653392658,El Tigre,hamlet,,,,,0.6577860605298301
+11653405582,El Obispito,hamlet,,,,,1.2340123228649684
+11654404507,Tantute,hamlet,,,,,3.202474527657587
+11902149133,Fraccionamiento San Gabriel,neighbourhood,,,,,4.192390121363137
+11915077301,Residencial Punta Diamante,neighbourhood,,,,,0.42753820797159015
+11942863831,Las Ramblas,neighbourhood,,,,,3.1865147378699006
+12060647593,Villa Nogal,neighbourhood,,,,,4.4869356736230435
+12060704722,El Canto Residencial,neighbourhood,,,,,2.1894044688119427
+12141233849,Danza de Luz,neighbourhood,,,,,3.697020164141634
+12141456487,Villas del Mezquite,neighbourhood,,,,,4.721625210893942
+12166896281,Sotavento Residencial,neighbourhood,,,,,3.98016506625632
+12180774550,El Toro,neighbourhood,,,,,2.962362379156622
+12853822406,Villas de San Lorenzo,neighbourhood,,,,,4.798723851854443
+12861233301,Valle Real,neighbourhood,,,,,0.7789962347275288
+12869354382,Santa Barbara,neighbourhood,,,,,3.778814820014741
+13076880961,Joyita de la Cruz,hamlet,,,,,2.991359401307608
+13076892907,Hacienda Valbuena,neighbourhood,,,,,1.3619366063126375
+13505633829,Montebello Residencial,neighbourhood,,,,,0.4036584330973725
