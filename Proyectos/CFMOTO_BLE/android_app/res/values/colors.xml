@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="background">#F5F5F5</color>
+    <color name="panelBackground">#FFFFFF</color>
+    <color name="logBackground">#263238</color>
+    <color name="logText">#80CBC4</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="signalExcellent">#4CAF50</color>
+    <color name="signalGood">#8BC34A</color>
+    <color name="signalMedium">#FFC107</color>
+    <color name="signalWeak">#FF5722</color>
+    <color name="cfmotoTag">#FF6F00</color>
+    <color name="white">#FFFFFF</color>
+</resources>

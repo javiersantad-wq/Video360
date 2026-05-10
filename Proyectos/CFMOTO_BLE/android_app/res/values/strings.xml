@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CFMOTO 300NK BLE</string>
+    <string name="start_scan">Escanear</string>
+    <string name="stop_scan">Detener</string>
+    <string name="status_ready">Listo - Toca Escanear para comenzar</string>
+    <string name="status_scanning">Escaneando...</string>
+    <string name="save_log">Guardar Log</string>
+    <string name="clear">Limpiar</string>
+    <string name="export_json">Exportar JSON</string>
+    <string name="start_sniffer">Sniffer</string>
+</resources>

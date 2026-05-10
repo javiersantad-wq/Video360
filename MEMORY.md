@@ -67,6 +67,40 @@
 
 ---
 
+## Proyecto: PointCloudPoleDetector (2026-03-23)
+
+**Objetivo:** Detectar postes en nubes de puntos LiDAR para líneas de transmisión.
+
+**Ubicación:** `C:\Users\ed\.openclaw\workspace\Proyectos\PointCloudPoleDetector\`
+
+### .EXE DISTRIBUIBLE (2026-03-25) ✅
+**Carpeta:** `C:\nube\nubes_a_shp\extract_pole_centroids\`
+**Tamaño:** 365.6 MB (no necesita Python ni nada instalado)
+
+**INTERACTIVO:** Al abrir el .exe sin argumentos abre menu para elegir clases, CRS, formatos, radio de clustering, etc.
+**CLI:** Tambien funciona desde linea de comandos con parametros.
+
+```
+extract_pole_centroids/
+├── extract_pole_centroids.exe  (17.6 MB)
+├── _internal/                  (Python + dependencias)
+└── ODA/                       (ODA File Converter para DWG, 69 MB)
+```
+
+**Uso:**
+```cmd
+extract_pole_centroids.exe archivo.las salida --class-code 14 --crs EPSG:32614 --dxf --dwg
+```
+
+**Dependencias incluidas:** laspy, geopandas, shapely, fiona, ezdxf, scikit-learn, numpy, pyproj, ODA File Converter
+
+### Script: extract_pole_centroids.py (COMPLETO 2026-03-25)
+Detección por filtrado geométrico (sin DL), usa DBSCAN + radius filter.
+
+**Pendiente:** Probar GUI web (app.py), fine-tuning con datos etiquetados
+
+---
+
 ## Proyecto: Mapeo 3D con Fusión de Sensores
 
 **Setup objetivo:**
@@ -78,19 +112,29 @@
 
 ---
 
-## YOLOv8-Mobile App (2026-03-12)
-- ✅ Detección en tiempo real funcionando
-- ✅ Etiquetas mostradas en pantalla (chair, person, cup)
-- ✅ GPS mostrando coordenadas automáticamente
-- ✅ Guardado automático a CSV cada 5 segundos
-- ✅ Botón WhatsApp
-- ✅ App estable (sin crashes)
-- Package: com.xvesa.yolov8mobile
-- Device: 9028eb7f (Redmi 13 Pro 5G)
-- Proyecto: C:\nube\openclaw\YOLOv8-Mobile
-- APK: app-debug.apk
+## Proyecto: CFMOTO 300NK BLE Scanner (2026-05-09) 🔧
 
-**Continuar desarrollo: Mañana 10am**
+**Ubicación:** `C:\Users\ed\.openclaw\workspace\Proyectos\CFMOTO_BLE\`
+
+### Dispositivos BLE detectados (sin moto cerca):
+- CFMOTO-LE-8C472C → DD:0D:30:8C:47:2C, -55 dBm, servicio 34fb
+- CFMOTO-5F2C → 03:FF:01:04:5F:2C, -63 dBm, servicio 34fb
+
+### Servicio BLE principal: Nordic UART (NUS) UUID 0000fea1-...
+
+### App Android modificada: `com.cfmoto.blescanner`
+- Scanner BLE con filtros para CFMOTO
+- GATT Explorer con lectura/escritura de characteristics
+- **Sniffer Mode**: foreground service que captura todo el trafico BLE
+- APK debug en: `C:\Users\ed\Documents\apkcfmoto\apkcfmoto\CFMOTO_BLE\app\build\outputs\apk\debug\app-debug.apk`
+
+### Protocolo (del APK de CFMOTO RIDE):
+- Auth: Challenge-Response con encriptacion (cipher desconocido)
+- Datos moto: speed, GPS, voltaje, temperatura, etc. via protobuf
+- Comandos remotos: MQTT via 4G (lock/unlock/horn/etc.)
+- WiFi Direct: canal de datos local
+
+### Siguiente paso: capturar handshake con la moto cerca
 
 ---
 
@@ -100,3 +144,35 @@
 
 ## Chats
 - Webchat como canal principal
+
+## Proyecto: Mapeo 3D con Fusión de Sensores (2026-05-02) ⚠️ ACTIVO
+
+**Ubicación:** `C:\nube\openclaw\2026-03-06_proyecto_rtk_lidar_insta360\`
+**Archivos:** 711 | **Respaldo:** `memory\2026-05-02-proyecto-rtk-lidar-insta360-respaldo.md`
+
+### Hardware
+| Componente | Estado | Notas |
+|------------|--------|-------|
+| Insta360 X5 | ✅ Disponible | Protocolo: TCP 6666 binary |
+| Xiaomi Pad 7 Pro | ✅ Disponible | Control principal |
+| GPS RTK (UM980/ZED-F9P) | ⏳ Comprar | $251-492 MX$ |
+| Livox Mid-360 | ⏳ Opcional | Para nubes de puntos |
+| USB UART FT232RL | ⏳ Comprar | ~$17-31 MX$ |
+| Cable OTG USB-C | ⏳ Comprar | ~$6-13 MX$ |
+
+### Método (basado en REDcatch 360RTK)
+1. Video continuo Insta360 X5 + logging GPS (CSV timestamps)
+2. Fotos discretas como GCPs
+3. Post-proceso: frames ↔ GPS → Metashape/Pix4D
+
+### Lecciones
+- ❌ No coordenadas en EXIF (6 dígitos insuficientes para RTK)
+- ❌ No API HTTP para X5 (protocolo real: TCP 6666 binary)
+- ✅ Logging GPS + timestamps como clave de sincronización
+
+### Compras Aliexpress
+| Item | Precio MX$ | Link |
+|------|-----------|------|
+| Módulo UM980 RTK | $251-492 | 1005009578780196 |
+| FT232RL USB UART | $17-31 | 1005006445462581 |
+| Cable OTG USB-C | $6-13 | 1005009370263139
