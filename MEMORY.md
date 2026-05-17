@@ -67,6 +67,40 @@
 
 ---
 
+## Proyecto: RTKCamera Pro (2026-05-09) 🆕
+
+**Ubicación:** `C:\Users\ed\.openclaw\workspace\Proyectos\RTKCamera\`
+
+**Objetivo:** App de mapeo geoespacial Android con RTK para precisión centimétrica. Inspirada en RTKcamera (at.redcatch.rtkcamera v2.1) pero con soporte dual para fotos y video.
+
+**Features:**
+- Tab RTK: Mapa OSMDroid + selector receptor GNSS (Bluetooth) + config NTRIP + indicadores de fix
+- Tab Camera: Captura fotos/video geoetiquetadas (Insta360 X5 via TCP 6666 o cámara celular via CameraX)
+- Tab App: Gestión de proyecto, exportación JSON/KML, estadísticas
+- Distance trigger: Captura automática cada X metros (configurable 2-20m)
+- RTK accuracy: ±2cm con fix RTK
+
+**Arquitectura:**
+- 3 Foreground Services: RTKService (BT GNSS), NTRIPService (TCP caster), Insta360Service (TCP 6666)
+- Min SDK 26, Target SDK 34, Kotlin, MVVM
+- Dependencias: OSMDroid 6.1.18, CameraX 1.3.1, Gson 2.10.1
+
+**Estado:** Esqueleto completo creado (24 archivos, 4KK+ líneas Kotlin/XML). Faltan:
+- Implementar distance trigger logic
+- Probar conexión real con UM980
+- Implementar sync GPS-Insta360 (timestamp matching)
+- Agregar export GPX
+- Soporte Livox Mid-360
+
+**Para construir:**
+```bash
+cd android_app
+gradle wrapper --gradle-version 8.4
+./gradlew assembleDebug
+```
+
+---
+
 ## Proyecto: PointCloudPoleDetector (2026-03-23)
 
 **Objetivo:** Detectar postes en nubes de puntos LiDAR para líneas de transmisión.
@@ -161,6 +195,8 @@ Detección por filtrado geométrico (sin DL), usa DBSCAN + radius filter.
 | Cable OTG USB-C | ⏳ Comprar | ~$6-13 MX$ |
 
 ### Método (basado en REDcatch 360RTK)
+
+### Método (basado en REDcatch 360RTK)
 1. Video continuo Insta360 X5 + logging GPS (CSV timestamps)
 2. Fotos discretas como GCPs
 3. Post-proceso: frames ↔ GPS → Metashape/Pix4D
@@ -169,6 +205,13 @@ Detección por filtrado geométrico (sin DL), usa DBSCAN + radius filter.
 - ❌ No coordenadas en EXIF (6 dígitos insuficientes para RTK)
 - ❌ No API HTTP para X5 (protocolo real: TCP 6666 binary)
 - ✅ Logging GPS + timestamps como clave de sincronización
+- 🆕 **Insta360 OSC API** (2026-05-10): HTTP/JSON público en puerto 80 — es el camino correcto para controlar X5 sin el protocolo binario del 6666
+  - Docs: https://github.com/Insta360Develop/Insta360_OSC
+  - Puerto: 80, headers: `Content-Type: application/json`, `X-XSRF-Protected: 1`
+  - Endpoints: `/osc/info`, `/osc/state`, `/osc/commands/execute`, `/osc/commands/status`
+  - Comandos: `camera.takePicture`, `camera.setOptions`, `camera.listFiles`, `camera.startCapture`/`stopCapture`
+  - ⚠️ Puerto 80 de la X5 no respondió en pruebas — puede que el API OSC no esté activo o necesite activación vía app Insta360 primero
+- Puerto 17777 en el celular = mock server/testing, no es de la cámara
 
 ### Compras Aliexpress
 | Item | Precio MX$ | Link |
